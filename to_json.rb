@@ -5,7 +5,7 @@ require 'pry'
 csv_options = { col_sep: ',', quote_char: '"', headers: :first_row }
 
 Dir.glob('isteebu/*.csv') do |filepath|
-  headers = CSV.read(filepath, headers: true).headers
+  headers = CSV.read(filepath, headers: true).headers.drop(3)
 
   data = []
   source = ''
