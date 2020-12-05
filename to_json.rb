@@ -8,7 +8,9 @@ Dir.glob('isteebu/*.csv') do |filepath|
   headers = CSV.read(filepath, headers: true).headers
 
   data = []
+  source = ''
   CSV.foreach(filepath, csv_options) do |row|
+    source = row['source']
     line = {}
     headers.each do |column|
       line[column] = row[column]
@@ -17,6 +19,6 @@ Dir.glob('isteebu/*.csv') do |filepath|
   end
 
   File.open("json/#{File.basename(filepath, '.csv')}.json", 'w') do |file|
-    file.write({ headers: headers, data: data }.to_json)
+    file.write({ headers: headers, data: data, source: source }.to_json)
   end
 end
