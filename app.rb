@@ -2,9 +2,9 @@ require 'google_drive'
 require 'csv'
 require 'pry'
 
-session = GoogleDrive::Session.from_config('config.json')
-INDEX_FILE = '1nsBIvK4a_jdW4h4Wpd2S2KqJqTvyx3lFN5jeFJVDdH0'.freeze
+require_relative 'index'
 
+session = GoogleDrive::Session.from_config('config.json')
 index = session.spreadsheet_by_key(INDEX_FILE).worksheets[0]
 
 chapters = index.rows.drop(1).first(21)
