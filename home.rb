@@ -15,7 +15,7 @@ rows.each do |row|
   name = row[2]
   path = "https://burundiarxiv-api.herokuapp.com/datasets/isteebu-annuaire-2018-#{id}.csv"
 
-  data = { name: name, path: path }
+  data = { name: name, path: path, id: id }
 
   datasets[category] = [] unless datasets.key?(category)
 
