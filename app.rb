@@ -16,7 +16,8 @@ chapters.each do |chapter|
   puts "opening #{title}"
   sheets = session.spreadsheet_by_key(key).worksheets
   sheets.each do |sheet|
-    rows = sheet.rows
+    rows = sheet.rows.first(11)
+    binding.pry
     title = sheet.title.gsub('.', '-')
     csv_str = rows.inject([]) { |csv, row| csv << CSV.generate_line(row) }.join('')
     filename = "isteebu/isteebu-annuaire-2018-#{title}.csv"
