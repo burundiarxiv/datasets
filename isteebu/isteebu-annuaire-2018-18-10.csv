@@ -1,0 +1,11 @@
+id_tableau,titre_tableau,source,province,institution_financiere,2014,2015,2016,2017,2018
+18.10,Nombre d'agences des institutions financières par province,BRB,Bubanza,Banque centrale,0,0,0,0,0
+18.10,Nombre d'agences des institutions financières par province,BRB,Bubanza,Banque Commerciale,2,2,1,1,2
+18.10,Nombre d'agences des institutions financières par province,BRB,Bubanza,Microfinance,12,13,14,10,15
+18.10,Nombre d'agences des institutions financières par province,BRB,Bujumbura,Banque centrale,0,0,0,0,""
+18.10,Nombre d'agences des institutions financières par province,BRB,Bujumbura,Banque Commerciale,1,1,1,1,4
+18.10,Nombre d'agences des institutions financières par province,BRB,Bujumbura,Microfinance,13,13,13,7,12
+18.10,Nombre d'agences des institutions financières par province,BRB,Bujumbura-Mairie,Banque centrale,1,1,1,1,1
+18.10,Nombre d'agences des institutions financières par province,BRB,Bujumbura-Mairie,Banque Commerciale,51,45,43,50,95
+18.10,Nombre d'agences des institutions financières par province,BRB,Bujumbura-Mairie,Microfinance,32,32,35,51,61
+18.10,Nombre d'agences des institutions financières par province,BRB,Bururi,Banque centrale,0,0,0,0,0

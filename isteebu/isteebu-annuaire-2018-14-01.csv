@@ -1,0 +1,11 @@
+id_tableau,titre_tableau,source,compte,categorie,sous_categorie,2011,2012,2013,2014,2015,2016,2017,2018
+14.01,Balance des paiements (en millions de FBU), BRB/Rapports annuels,COMPTE COURANT,"","","-357 619,30","-367 961,00","-401 881,00","-608 177,10","-586 739,30","587 097,40","-622 470,4","-645 802,1"
+14.01,Balance des paiements (en millions de FBU), BRB/Rapports annuels,COMPTE COURANT,Crédit,"","656 047,30","1 003 124,60","1 062 795,40","885 760,8","795 736,7","711 405,4","931 775,7","1 044 676,9"
+14.01,Balance des paiements (en millions de FBU), BRB/Rapports annuels,COMPTE COURANT,Débit,"","1 013 666,60","1 371 085,60","1 464 676,40","1 493 937,9","1 382 476,0","1 298 502,8","1 553 045,5","1 690 479,0"
+14.01,Balance des paiements (en millions de FBU), BRB/Rapports annuels,COMPTE COURANT,Biens,"","-540 355,10","-831 383,80","-904 355,50","-809 449,3","-759 211,5","-691 235,5","-783 373,6","-884 170,4"
+14.01,Balance des paiements (en millions de FBU), BRB/Rapports annuels,COMPTE COURANT,Biens,Exports FOB,"156 350,40","194 303,50","146 257,00","203 843,6","189 945,6","181 044,3","298 500,1","321 255,4"
+14.01,Balance des paiements (en millions de FBU), BRB/Rapports annuels,COMPTE COURANT,Biens,Imports FOB,"696 705,50","1 025 687,30","1 050 612,50","1 013 292,9","949 157,1","872 279,8","1 081 873,7","1 205 425,8"
+14.01,Balance des paiements (en millions de FBU), BRB/Rapports annuels,COMPTE COURANT,Services,"","-127 581,20","-171 295,00","-172 844,60","-301 654,2","-269 565,7","-234 502,2","-286 005,4","-220 815,9"
+14.01,Balance des paiements (en millions de FBU), BRB/Rapports annuels,COMPTE COURANT,Services,Crédit,"140 839,70","133 913,30","197 513,90","114 626,6","90 012,2","120 517,2","110 433,0","187 762,4"
+14.01,Balance des paiements (en millions de FBU), BRB/Rapports annuels,COMPTE COURANT,Services,Débit,"268 420,90","305 208,30","370 358,50","416 280,8","359 577,9","355 019,4","396 438,3","408 578,3"
+14.01,Balance des paiements (en millions de FBU), BRB/Rapports annuels,COMPTE COURANT,Revenus primaires,"","-22 055,20","-9 384,40","2 775,10","-10 489,1","-2 627,8","-1 375,1","-8 285,7","10 878,5"
