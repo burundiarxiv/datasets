@@ -1,11 +1,11 @@
-index,id_tableau,titre_tableau,source,province,catégorie,2015,2016,2017,2018
-1,8.01,"Hotels du Burundi, leur capacite d'accueil et prix moyen d'une chambre",ISTEEBU/ONT,BUJUMBURA MAIRIE,Capacité d'accueil en chambre,1703,2940,3308,2858
-2,8.01,"Hotels du Burundi, leur capacite d'accueil et prix moyen d'une chambre",ISTEEBU/ONT,BUBANZA,Capacité d'accueil en chambre,120,103,92,107
-3,8.01,"Hotels du Burundi, leur capacite d'accueil et prix moyen d'une chambre",ISTEEBU/ONT,BUJA-RURAL,Capacité d'accueil en chambre,24,71,41,71
-4,8.01,"Hotels du Burundi, leur capacite d'accueil et prix moyen d'une chambre",ISTEEBU/ONT,BURURI,Capacité d'accueil en chambre,38,173,43,173
-5,8.01,"Hotels du Burundi, leur capacite d'accueil et prix moyen d'une chambre",ISTEEBU/ONT,CANKUZO,Capacité d'accueil en chambre,52,188,-,188
-6,8.01,"Hotels du Burundi, leur capacite d'accueil et prix moyen d'une chambre",ISTEEBU/ONT,CIBITOKE,Capacité d'accueil en chambre,47,176,65,172
-7,8.01,"Hotels du Burundi, leur capacite d'accueil et prix moyen d'une chambre",ISTEEBU/ONT,GITEGA,Capacité d'accueil en chambre,680,785,351,755
-8,8.01,"Hotels du Burundi, leur capacite d'accueil et prix moyen d'une chambre",ISTEEBU/ONT,KARUSI,Capacité d'accueil en chambre,42,124,49,124
-9,8.01,"Hotels du Burundi, leur capacite d'accueil et prix moyen d'une chambre",ISTEEBU/ONT,KAYANZA,Capacité d'accueil en chambre,148,228,-,228
-10,8.01,"Hotels du Burundi, leur capacite d'accueil et prix moyen d'une chambre",ISTEEBU/ONT,KIRUNDO,Capacité d'accueil en chambre,49,214,182,284
+id_tableau,titre_tableau,source,province,catégorie,2015,2016,2017,2018
+8.01,"Hotels du Burundi, leur capacite d'accueil et prix moyen d'une chambre",ISTEEBU/ONT,BUJUMBURA MAIRIE,Capacité d'accueil en chambre,1703,2940,3308,2858
+8.01,"Hotels du Burundi, leur capacite d'accueil et prix moyen d'une chambre",ISTEEBU/ONT,BUBANZA,Capacité d'accueil en chambre,120,103,92,107
+8.01,"Hotels du Burundi, leur capacite d'accueil et prix moyen d'une chambre",ISTEEBU/ONT,BUJA-RURAL,Capacité d'accueil en chambre,24,71,41,71
+8.01,"Hotels du Burundi, leur capacite d'accueil et prix moyen d'une chambre",ISTEEBU/ONT,BURURI,Capacité d'accueil en chambre,38,173,43,173
+8.01,"Hotels du Burundi, leur capacite d'accueil et prix moyen d'une chambre",ISTEEBU/ONT,CANKUZO,Capacité d'accueil en chambre,52,188,-,188
+8.01,"Hotels du Burundi, leur capacite d'accueil et prix moyen d'une chambre",ISTEEBU/ONT,CIBITOKE,Capacité d'accueil en chambre,47,176,65,172
+8.01,"Hotels du Burundi, leur capacite d'accueil et prix moyen d'une chambre",ISTEEBU/ONT,GITEGA,Capacité d'accueil en chambre,680,785,351,755
+8.01,"Hotels du Burundi, leur capacite d'accueil et prix moyen d'une chambre",ISTEEBU/ONT,KARUSI,Capacité d'accueil en chambre,42,124,49,124
+8.01,"Hotels du Burundi, leur capacite d'accueil et prix moyen d'une chambre",ISTEEBU/ONT,KAYANZA,Capacité d'accueil en chambre,148,228,-,228
+8.01,"Hotels du Burundi, leur capacite d'accueil et prix moyen d'une chambre",ISTEEBU/ONT,KIRUNDO,Capacité d'accueil en chambre,49,214,182,284

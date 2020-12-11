@@ -1,4 +1,4 @@
-index,id_tableau,titre_tableau,source,Désignations,2010,2011,2012,2013,2014,2015,2016,2017
-1,8.03,Arrivées par mode de transport,ONT/CGM,Air,32 731,22 504,36 435,76 567,63 214,21 321,39 871,53 050
-2,8.03,Arrivées par mode de transport,ONT/CGM,Route,83 963,98 756,87 985,132 768,137 775,80 294,93 720,304 829
-3,8.03,Arrivées par mode de transport,ONT/CGM,Lac,25 615,23 121,23 289,24 719,34 673,29 876,53 485,36 025
+id_tableau,titre_tableau,source,Désignations,2010,2011,2012,2013,2014,2015,2016,2017
+8.03,Arrivées par mode de transport,ONT/CGM,Air,32 731,22 504,36 435,76 567,63 214,21 321,39 871,53 050
+8.03,Arrivées par mode de transport,ONT/CGM,Route,83 963,98 756,87 985,132 768,137 775,80 294,93 720,304 829
+8.03,Arrivées par mode de transport,ONT/CGM,Lac,25 615,23 121,23 289,24 719,34 673,29 876,53 485,36 025
