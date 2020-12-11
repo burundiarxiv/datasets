@@ -1,13 +1,15 @@
-task default: %w[test]
-
 task :dl do
   ruby 'app.rb'
 end
 
 task :json do
-  ruby 'to_json.rb'
+  ruby 'lib/to_json.rb'
 end
 
 task :home do
-  ruby 'home.rb'
+  ruby 'lib/home.rb'
+end
+
+task :test do
+  ruby 'test/app_test.rb'
 end
