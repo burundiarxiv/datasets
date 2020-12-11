@@ -7,7 +7,7 @@ require_relative 'index'
 session = GoogleDrive::Session.from_config('config.json')
 index = session.spreadsheet_by_key(INDEX_FILE).worksheets[0]
 
-chapters = index.rows.drop(20).first(21)
+chapters = index.rows.drop(3).first(1)
 chapters.each do |chapter|
   _number, title, _, _, _, _, _, key = chapter
 

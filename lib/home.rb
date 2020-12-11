@@ -2,7 +2,7 @@ require 'google_drive'
 require 'csv'
 require 'pry'
 
-require_relative 'index'
+require_relative '../index'
 
 session = GoogleDrive::Session.from_config('config.json')
 sheet = session.spreadsheet_by_key(INDEX_FILE).worksheets[1]
