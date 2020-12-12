@@ -19,6 +19,6 @@ Dir.glob('isteebu/*.csv') do |filepath|
   end
 
   File.open("json/#{File.basename(filepath, '.csv')}.json", 'w') do |file|
-    file.write({ headers: headers, rows: rows, source: source }.to_json)
+    file.write({ headers: headers, rows: rows.first(10), source: source }.to_json)
   end
 end

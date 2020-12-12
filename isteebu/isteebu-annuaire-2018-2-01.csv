@@ -9,3 +9,17 @@ id_tableau,titre_tableau,source,categorie,sous_categorie,2002,2006,2008,2014
 2.01,Nombre des ménages possédant certains biens de consommation durables par milieu de résidence,"QUID 2002, QUIBB 2006, RGPH 2008, ECVMB 2013-2014",Réfrigerateur,Rural,-,1306,-,1477
 2.01,Nombre des ménages possédant certains biens de consommation durables par milieu de résidence,"QUID 2002, QUIBB 2006, RGPH 2008, ECVMB 2013-2014",Réfrigerateur,Ensemble,12960,26289,-,25573
 2.01,Nombre des ménages possédant certains biens de consommation durables par milieu de résidence,"QUID 2002, QUIBB 2006, RGPH 2008, ECVMB 2013-2014",Réchaud/Cuisinière,Urbain,-,2547,-,3062
+2.01,Nombre des ménages possédant certains biens de consommation durables par milieu de résidence,"QUID 2002, QUIBB 2006, RGPH 2008, ECVMB 2013-2014",Réchaud/Cuisinière,Rural,-,9145,-,1666
+2.01,Nombre des ménages possédant certains biens de consommation durables par milieu de résidence,"QUID 2002, QUIBB 2006, RGPH 2008, ECVMB 2013-2014",Réchaud/Cuisinière,Ensemble,4320,13836,-,4728
+2.01,Nombre des ménages possédant certains biens de consommation durables par milieu de résidence,"QUID 2002, QUIBB 2006, RGPH 2008, ECVMB 2013-2014",Bicyclette,Urbain,-,12114,16946,22251
+2.01,Nombre des ménages possédant certains biens de consommation durables par milieu de résidence,"QUID 2002, QUIBB 2006, RGPH 2008, ECVMB 2013-2014",Bicyclette,Rural,-,147250,177323,267982
+2.01,Nombre des ménages possédant certains biens de consommation durables par milieu de résidence,"QUID 2002, QUIBB 2006, RGPH 2008, ECVMB 2013-2014",Bicyclette,Ensemble,152638,159364,192153,290234
+2.01,Nombre des ménages possédant certains biens de consommation durables par milieu de résidence,"QUID 2002, QUIBB 2006, RGPH 2008, ECVMB 2013-2014",Motocyclette,Urbain,-,2316,2824,4531
+2.01,Nombre des ménages possédant certains biens de consommation durables par milieu de résidence,"QUID 2002, QUIBB 2006, RGPH 2008, ECVMB 2013-2014",Motocyclette,Rural,-,13064,4586,16846
+2.01,Nombre des ménages possédant certains biens de consommation durables par milieu de résidence,"QUID 2002, QUIBB 2006, RGPH 2008, ECVMB 2013-2014",Motocyclette,Ensemble,2880,13836,8428,21377
+2.01,Nombre des ménages possédant certains biens de consommation durables par milieu de résidence,"QUID 2002, QUIBB 2006, RGPH 2008, ECVMB 2013-2014",Fer à repasser,Urbain,-,32111,-,58501
+2.01,Nombre des ménages possédant certains biens de consommation durables par milieu de résidence,"QUID 2002, QUIBB 2006, RGPH 2008, ECVMB 2013-2014",Fer à repasser,Rural,-,69243,-,48746
+2.01,Nombre des ménages possédant certains biens de consommation durables par milieu de résidence,"QUID 2002, QUIBB 2006, RGPH 2008, ECVMB 2013-2014",Fer à repasser,Ensemble,20160,101354,-,107247
+2.01,Nombre des ménages possédant certains biens de consommation durables par milieu de résidence,"QUID 2002, QUIBB 2006, RGPH 2008, ECVMB 2013-2014",Voiture,Urbain,-,6051,9201,13114
+2.01,Nombre des ménages possédant certains biens de consommation durables par milieu de résidence,"QUID 2002, QUIBB 2006, RGPH 2008, ECVMB 2013-2014",Voiture,Rural,-,1086,17284,1270
+2.01,Nombre des ménages possédant certains biens de consommation durables par milieu de résidence,"QUID 2002, QUIBB 2006, RGPH 2008, ECVMB 2013-2014",Voiture,Ensemble,8640,7137,26485,14384

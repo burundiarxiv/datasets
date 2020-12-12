@@ -7,7 +7,7 @@ require_relative 'index'
 session = GoogleDrive::Session.from_config('config.json')
 index = session.spreadsheet_by_key(INDEX_FILE).worksheets[0]
 
-chapters = index.rows.drop(8).first(1)
+chapters = index.rows.drop(2).first(2)
 chapters.each do |chapter|
   _number, title, _, _, _, _, _, key = chapter
 
@@ -16,7 +16,7 @@ chapters.each do |chapter|
   puts "opening #{title}"
   sheets = session.spreadsheet_by_key(key).worksheets
   sheets.each do |sheet|
-    rows = sheet.rows.first(11)
+    rows = sheet.rows
     title = sheet.title.gsub('.', '-')
     csv_str = rows.inject([]) { |csv, row| csv << CSV.generate_line(row) }.join('')
     filename = "isteebu/isteebu-annuaire-2018-#{title}.csv"
