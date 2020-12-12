@@ -9,3 +9,5 @@ id_tableau,titre_tableau,source,categorie,sous_categorie,2015,2016,2017
 18.03,Nombre de contrats par catégories d'assurances vie au 31 décembre,ARCA,Assurances collectives,Contrat en cas de décès,389,597,""
 18.03,Nombre de contrats par catégories d'assurances vie au 31 décembre,ARCA,Assurances collectives,Mixte,2239,2353,""
 18.03,Nombre de contrats par catégories d'assurances vie au 31 décembre,ARCA,Assurances collectives,Epargne,106,114,""
+18.03,Nombre de contrats par catégories d'assurances vie au 31 décembre,ARCA,Assurances collectives,Titre de capitalisation,"","",""
+18.03,Nombre de contrats par catégories d'assurances vie au 31 décembre,ARCA,Assurances collectives,Complémentaires,2433,2580,""

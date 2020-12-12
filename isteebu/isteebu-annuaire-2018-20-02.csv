@@ -9,3 +9,64 @@ id_tableau,titre_tableau,source,Infraction,2013,2014,2015,2016,2017,2018
 20.02,Infractions au code pénal enregistrées par la Police,MSP,Avortement (T8 C1 S1),52,59,35,70,128,79
 20.02,Infractions au code pénal enregistrées par la Police,MSP,Aversion Raciale,50,94,131,123,-,-
 20.02,Infractions au code pénal enregistrées par la Police,MSP,Banqueroute,5,4,"","",-,""
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Blanchiment d'argent (T6 C2 S2 SS8),-,"",1,30,15,10
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Concubinage,31,13,12,"",-,""
+20.02,Infractions au code pénal enregistrées par la Police,MSP,"Contrefaçon des sceaux, timbres, poinçons ou autres marques de
+l'autorité (T3 C1)","","","",32,25,18
+20.02,Infractions au code pénal enregistrées par la Police,MSP,"Contrefaçon, falsification et imitation des signes monétaires (T3 C1)",7,4,2,51,50,""
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Corruption active,16,7,1,17,3,6
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Corruption passive,-,-,-,-,12,11
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Délit de fuite,4,3,3,7,-,-
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Dénonciation calomnieuse,39,47,27,18,-,-
+20.02,Infractions au code pénal enregistrées par la Police,MSP,"Destruction et dégradation d'arbres, récoltes ou autres propriétés  (T2
+C3 S3)",951,"1,054",811,"1,195","1,700","1,147"
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Détention illégale d'arme à feu,80,62,107,93,-,-
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Détournement de gage ou d'objet saisi (T2 C1 S3),35,8,3,nd,34,29
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Effets sans provisions (T2 C2 S12),42,43,22,31,69,49
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Empoisonnement (T1 C3 S1),61,58,29,101,279,291
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Enlèvement (T1 C6 S2),71,79,57,216,209,177
+20.02,Infractions au code pénal enregistrées par la Police,MSP,"Enlèvement, déplacement ou dépassement des bornes (T2 C3 S5)",226,246,135,695,564,524
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Enrichissement illicite (T6 C2 S2 SS5),-,-,-,56,65,5
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Epreuve superstitieuse,27,31,10,19,-,-
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Escroquerie (T2 C2 S7 §1),538,527,381,"1,114","1,508","1,218"
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Évasion des détenus (T7 C5 S1),32,31,27,130,130,104
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Extorsion (T2 C1 S4),385,406,306,603,731,742
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Faux et usage de faux,121,153,126,177,-,-
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Faux témoignages,5,6,3,7,-,-
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Harcèlement sexuel (T8 C2 S4),22,41,20,41,57,53
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Inceste,18,26,9,17,-,-
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Imputation dommageable,207,221,215,278,-,-
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Infanticide,58,70,50,47,-,-
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Homicide volontaire,28,20,25,-,-,-
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Homicide involontaire (T1 C4 S1),88,98,88,222,304,195
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Lésions corporelles volontaires,"2,864","3,332","2,407","4,093","4,411","3,198"
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Lésions corporelles involontaires (T1 c4 s2),"2,652",18,28,646,577,426
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Menace d'attentat,156,194,162,"",-,-
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Meurtre (T1 C3 S1),118,75,71,131,154,106
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Mutilation de cadavre,2,-,-,-,-,-
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Outrages aux bonnes mœurs (T8 C2 S5 SS1),"","","",36,39,34
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Outrages et violences envers les dépositaires de l'autorité ou de la force publique (T4 C2 S2),15,15,15,15,15,15
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Parricide,16,11,16,18,-,-
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Participation à des bandes armées (T9 c2 s4),20,18,132,183,61,18
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Participation à un mouvement insurrectionnel (T9 C2 S5),"","","",31,11,14
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Proxénétisme T8 C2 S1 §2,"","","",20,29,24
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Rébellion (T4 C2 S1),480,662,565,983,"1,410","1,102"
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Recel (T2 C2 S8),150,116,88,311,473,386
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Stellionat (T2 C2 S4),136,159,103,307,384,327
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Stupéfiants (T7 C6 S1),203,266,105,489,835,533
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Tentative d'assassinat,276,304,233,257,-,-
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Tentative d'avortement,"",1,2,5,-,-
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Tentative de meurtre,53,67,35,56,-,-
+20.02,Infractions au code pénal enregistrées par la Police,MSP,"Torture et autres traitements cruels, inhumains et dégradants (T1 C2)",20,14,4,35,-,-
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Traite et trafic d'êtres humains (T1 c6 s1),1,7,4,35,25,30
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Tromperie (T2 C2 S7 §2),26,17,16,67,55,79
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Viol ( T8 C2 S3),"1,032","1,118",678,"1,154","1,102",980
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Violation de domicile (T1 C6 S3),87,79,57,289,221,178
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Violences basées sur le genre,-,-,-,-,572,431
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Violences domestiques (T8 C1 S5),17,21,"",546,807,505
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Vol qualifié (T2 C1 S2),"4,607","4,495","3,597","5,377","6,323","5,570"
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Vol simple (T2 C1 S1),790,807,594,"1,862","2,810","1,740"
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Vol de bétail,-,-,-,-,262,154
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Zoophilie,10,4,3,"",-,""
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Autre,"1,093","1,219",960,"2,008","1,848","1,984"
+20.02,Infractions au code pénal enregistrées par la Police,MSP,Total,"19,121","17,727","13,622","27,550","32,551","25,355"

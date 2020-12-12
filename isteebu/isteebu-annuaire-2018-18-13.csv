@@ -9,3 +9,8 @@ id_tableau,titre_tableau,source,province,institution_financiere,2010,2011,2012,2
 18.13,Quelques renseignements sur les établissements financiers,BRB,"",Montant de crédit octroyés par les microfinances,44207,60416,63487,81051,103315,114628,142828,184360,225469
 18.13,Quelques renseignements sur les établissements financiers,BRB,"",Nombre de compte courants ouvert dans les banques,"","","","","","","","",383278
 18.13,Quelques renseignements sur les établissements financiers,BRB,"",Nombre de compte courants ouverts dans les microfinances,"","","","",731036,729547,963736,796191,727478
+18.13,Quelques renseignements sur les établissements financiers,BRB,"",Nombre de client des institutions financières,"","","","","","","","",""
+18.13,Quelques renseignements sur les établissements financiers,BRB,"",Nombre des institutions financières qui font des transferts par telephonie,"","","","","",9,9,"",2
+18.13,Quelques renseignements sur les établissements financiers,BRB,"",Nombre des institutions financières qui font des transferts électroniques,"","","","","","","","",""
+18.13,Quelques renseignements sur les établissements financiers,BRB,"",Nombre des institutions financières qui disposent des cartes visa,"","","","",4,4,4,"",3
+18.13,Quelques renseignements sur les établissements financiers,BRB,"",Nombre des banques qui disposent les DAB,"","","","",4,6,6,"",6

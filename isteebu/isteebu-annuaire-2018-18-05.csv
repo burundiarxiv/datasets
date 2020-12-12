@@ -9,3 +9,5 @@ id_tableau,titre_tableau,source,categorie,sous_categorie,2015,2016,2017
 18.05,Nombre de sinistres déclarés par catégories d'Assurances vie au 31 décembre ,ARCA,Assurances collectives,Contrat en cas de décès,86,104,""
 18.05,Nombre de sinistres déclarés par catégories d'Assurances vie au 31 décembre ,ARCA,Assurances collectives,Mixte,23,25,""
 18.05,Nombre de sinistres déclarés par catégories d'Assurances vie au 31 décembre ,ARCA,Assurances collectives,Epargne,82,67,""
+18.05,Nombre de sinistres déclarés par catégories d'Assurances vie au 31 décembre ,ARCA,Assurances collectives,Titre de capitalisation,"","",""
+18.05,Nombre de sinistres déclarés par catégories d'Assurances vie au 31 décembre ,ARCA,Assurances collectives,Complémentaires,960,1154,""

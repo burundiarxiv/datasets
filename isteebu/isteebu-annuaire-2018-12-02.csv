@@ -9,3 +9,1023 @@ id_tableau,titre_tableau,source,code,produit,quantité,unité,2017,2018
 12.02,Prix moyen à la consommation des ménages,ISTEEBU,11112020,Riz blanc à  grains longs importé de la tanzanie (sac de 25 kg) 1ère qualité,25,kg,61755,52046
 12.02,Prix moyen à la consommation des ménages,ISTEEBU,11113010,Maïs à  grains blanc local BIO,1,kg,1126,682
 12.02,Prix moyen à la consommation des ménages,ISTEEBU,11113020,Maïs à  grains blanc local HYBRIDE,1,kg,1148,782
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11113030,Maïs en grains blanc importé,1,kg,1162,829
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11114010,Sorgho rouge local non germé,1,kg,1161,1025
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11114020,Sorgho blanc local,1,kg,1314,1217
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11114030,Blé local,1,kg,1695,1532
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11114040,Eleusine local,1,kg,1553,1320
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1112,Farines de céréales,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11121010,Farine de maïs local,1,kg,1272,893
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11121020,Farine de maïs blanche importé,1,kg,1999,1677
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11122010,Farine de blé local de production artisanale,1,kg,1907,1837
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11122020,Farine d'Eleusine local,1,kg,1873,1622
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11122030,Farine de sorgho non germé local,1,kg,1345,1242
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1113,Pâtes alimentaires,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11131010,Macaroni importé,500,gr,2644,3056
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11131020,Spaghetti importé,500,gr,1847,1902
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1114,Pains,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11141010,Pain tomate local,300,gr,788,735
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11142010,Pain coupé simple local,300,gr,857,823
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11142020,Pain coupé double local,500,gr,1395,1317
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11143010,Pain non coupé local en forme de baguette (pain français),150,gr,503,398
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11144010,Sandwich local,100,gr,314,262
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11145010,Pain brun (Pain ngano) local,500,gr,1429,1275
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11145020,Pain michette local,400,gr,1035,981
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1115,Pâtisseries,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11151010,Beignets à  base de farine de blé,50,gr,156,131
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11151020,Biscuits au chocolat importés,90,gr,781,793
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11151030,Petit cake emballé local,50,gr,236,206
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11151040,Pain plat (Chapati) local,50,gr,225,189
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,112,Viandes,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0112 1,Viande de boeuf,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0112 11010,Viande de boeuf avec os,1,kg,4702,5356
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0112 12010,Viande de boeuf sans os,1,kg,6037,6392
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0112 13010,Tripes de boeuf,1,kg,4004,4433
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0112 13020,Viande hâchée ordinaire,1,kg,5573,12013
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0112 2,Viande de mouton - chèvre,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0112 21010,Viande de chèvre,1,kg,5978,6809
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0112 3,Viande de porc,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0112 31010,Viande de porc sans os,1,kg,4884,6495
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0112 31020,Viande de porc avec os,1,kg,4183,5827
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0112 4,Charcuterie,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0112 41010,Poulet local sur pied,1,kg,5822,6104
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0112 41020,Saucisse Pilipili,1,kg,7368,8757
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0112 41030,Jambon local de boeuf,100,gr,1757,988
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0112 41040,Jambon local de porc,100,gr,2920,1877
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0112 41050,Boulettes ordinaires,1,kg,9301,9061
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0112 41060,Viandes en conserve,340,gr,4302,4285
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,113,Poissons et Fruits de mer,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1131,Poissons frais et fruits de mer frais,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11311010,Ndagala frais,1,kg,7262,8333
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11312010,Mukeke frais,1,kg,8617,7589
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11313010,Capitaine,1,kg,"",16213
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11313020,Inonzi frais,1,kg,"",13307
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11313030,Sangala frais,1,kg,13808,13289
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11313040,Tilapia frais,1,kg,25344,29512
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1132,Poissons,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11321010,Ndagala sec local,1,kg,25051,26522
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11322010,Ndagala sec importé,1,kg,6151,6996
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11323010,Mukeke sec et fumé,1,kg,12397,16887
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11324010,Makayabu sec importé,1,kg,4976,8889
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11324020,Sardine à  tomate,155,gr,1233,1268
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11324030,Sardine à  huile,25,gr,2498,2386
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,114,Lait,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1141,Lait,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11411010,Lait frais de vache local (Imfyufyu),1,Litre,1222,1013
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11412010,Lait frais en carton importé/ INYANGE,1,Litre,4698,5001
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11412020,Lait frais en paquet Hiland importé,500,Millilitre(s),1741,1973
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11412030,Lait de vache local pasteurisé en bouteille en plastic,500,Millilitre(s),1786,1386
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11412040,Lait en poudre NIDO 400 gr,400,gr,15844,18601
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11412050,Lait en poudre SUPALAIT 400 gr,400,gr,11445,12082
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11412060,Lait concentré sucré NESTLE,400,gr,11581,7934
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1142,Produits laitiers,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11421010,Yaourt naturel en pot en plastic,150,gr,1718,699
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11421020,Crème fraîche,500,gr,8777,-
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11421030,Fromage importé du Rwanda,1,kg,11842,11818
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1143,OEufs de poule,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11431010,OEuf local,1,Unité,337,303
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11431020,OEuf industriel local,1,Unité,288,311
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,115,Huiles et graisses,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1152,Huiles,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11521010,Huile de palme local raffiné,1,Litre,3450,3600
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11521020,Huile de palme local non raffiné,1,Litre,3223,2394
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11522010,Huile de coton GOLDEN,5,Litre,22754,23477
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11522020,Huile COOKI (SAVONOR),5,Litre,22067,22954
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11523010,Beurre emballé salé,250,gr,8458,-
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11523020,Margarine blue band Importé en pot en plastic,250,gr,2948,3051
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11523030,Huile d'olive importé,1,Litre,20840,25955
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11523040,Huile de tournesol local,5,Litre,26220,30407
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11523050,Huile de tournesol importé,5,Litre,26809,32689
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11523060,Huile d'arachide importé,1,Litre,5873,11415
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1,ALIMENTATION ET BOISSONS NON ALCOOLISÉES,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11,Produits alimentaires,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,116,Fruits,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,"",Fruits,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0116 21010,Avocats local,1,kg,1038,498
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0116 22010,Bananes mûres longues local,1,kg,1209,718
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0116 22020,Bananes mûres courtes local,1,kg,1230,1315
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0116 23010,Ananas local,1,kg,1340,539
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0116 14010,Oranges local,1,kg,1878,1002
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0116 14020,Citron local,1,kg,845,784
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0116 14030,Mandarines local,1,kg,1920,1174
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0116 25010,Papayes local,1,kg,869,686
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0116 25020,Fruits de la passion (amabungo) local,1,kg,2139,2018
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0116 25030,Prunes de Japon (amatunda) local,1,kg,2489,2382
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0116 25040,Mangues ordinaire local (indundi),1,kg,541,616
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0116 25050,Mangues greffé local,1,kg,850,1407
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,117,Légumes,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1171,Légumes frais en fruits ou racines,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11711010,Oignons blanc local,1,Kg,1457,1680
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11711020,Oignons rouge local,1,Kg,1397,1733
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11712010,Tomates fraiches local,1,Kg,918,1049
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11713010,Conserve de Tomate (salsa) importé,70,Gr,685,714
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11714010,Petites aubergines (Intore) local,1,Kg,611,587
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11715010,Haricot vert (imikerera) local,1,Kg,2214,2728
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11715020,Petit pois vert local,1,Kg,2384,2308
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11715030,Courges local,1,Kg,1148,636
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11715040,Poivron vert local,1,Kg,1715,1473
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11715050,Ails frais local (non décortiqués),1,Kg,8222,8414
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11715060,Carottes local,1,Kg,1447,1363
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1172,Légumes frais en feuilles,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11721010,Choux vert local,1,Kg,217,211
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11722010,Feuilles de manioc,1,Kg,377,318
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11723010,Lengalenga,1,Kg,630,509
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11724010,Poirreaux local,1,Kg,2024,1807
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11724020,Epinard local,1,Kg,1548,818
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11724030,Feuilles de haricot (umukubi),1,Kg,486,619
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11724040,Feuilles de courge (umusoma),1,Kg,616,650
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1173,Légumes secs et oleagineux,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11731010,Arrachides décortiqués local,1,Kg,3680,2711
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11731020,Arrachides grillés local,100,g,1333,762
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11732010,Farine d'arachide locale,1,Kg,4564,4178
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11733010,Haricot sec de couleur blanche,1,Kg,1299,1132
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11733020,Haricot sec de couleur jaune,1,Kg,1621,1444
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11733030,Haricot sec de couleur rouge,1,Kg,1216,1050
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11734010,Haricot sec graines mélangés,1,Kg,1152,951
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11735010,Petit pois sec local,1,Kg,2527,2162
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11736010,Farine de soja locale,1,Kg,1807,1852
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1174,Tubercules,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11741010,Pomme de terre de couleur mauve,1,Kg,724,602
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11741020,Pomme de terre local couleur jaune (genre Ruhengeri),1,Kg,756,610
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11741030,Pomme de terre Ruhengeri,1,Kg,830,772
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11742011,Patate douce local,1,Kg,512,319
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11743010,Banane douce (igisahira),1,Kg,631,546
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11744010,Colocase (ay'i Kizungu),1,Kg,851,709
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11745010,Manioc frais en tubercule,1,Kg,628,538
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11746010,Bananes plantains mûrs (imizuzu),1,Kg,906,291
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11746020,Igname,1,Kg,600,364
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1175,Produits à  base de tubercules et de plantain,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11751010,Farine de manioc sec IKIVUNDE,1,Kg,1423,1223
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11751020,Farine de manioc sec INYANGE,1,Kg,1125,753
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11752010,Ubuswage,1,Kg,885,904
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11753010,Chips,200,Gr,1568,2037
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,118,Sucre,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1181,Sucre,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11811010,Sucre blanc cristallisé local (SOSUMO),1,Kg,2666,2484
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1182,Confiture,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11821010,Confiture de fraises importé,450,Gr,3941,3867
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11821020,Miel local,1,Kg,6591,8314
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11821030,Chocolat au lait,200,Gr,4090,-
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11821040,Bonbon,1,Unité,31,30
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,119,Produits alimentaires n.c.a,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1191,Produits alimentaires n.c.a,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11911010,Sel de cuisine non emballé(non fin).,1,Kg,935,979
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11911020,Sel de table emballé,600,Gr,4690,5269
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11912010,Mayonnaise importé,470,Gr,6310,5871
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11912020,Cube (maggi,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11912030,Piment rouge frais (Mbuzi) local,1,Kg,3635,3952
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11912040,Céleri local,1,Kg,3179,3554
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11912050,Pilipili liquide local,340,Gr,1480,1205
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11913010,Farine pour Bébé importé(Cérélac),400,Gr,13443,15158
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11913020,Lait en poudre pour bébé Guigoz,400,Gr,20021,17968
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11913030,Lait en poudre pour bébé (NAN) (0 à  6 mois),400,Gr,22853,21456
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,12,Boissons non alcoolisees,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121,Cafe,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1211,Café et thé,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,12111010,Café en paquet local,250,Gr,5254,5445
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,12111020,Café soluble instantané en boîte (NESCAFE),250,Gr,17780,20380
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,12111030,Thé en paquet,200,Gr,1428,1720
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,122,Eaux minérales,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1221,Boissons non alcoolisées,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,12211010,Jus d'orange en carton,1,Litre,4403,4906
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,12211020,Jus de fruits en carton (cocktail),1,Litre,4235,4657
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,12211030,Sirop de maracoudja Akezamutima,65,Centilitre(s),4125,4279
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,12212010,Boisson gazeuse en bouteille en verre (coca cola,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,12213010,Eau minérale(1,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,12213020,Eau minérale (500 ml) Kinju local,500,Millilitre(s),601,598
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,12213030,Eau minérale gazeuse Aquavie (650ml) local,650,Millilitre(s),2530,1090
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,2,BOISSONS ALCOOLISÉES,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,21,Boissons alcoolisees,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,211,Spiritueux,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,2111,Spiritueux,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,21111010,Whisky J&B importé,1,Litre,48996,54983
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,21111020,Vodka Smirnof importé,1,Litre,18656,25770
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,212,Vin et boissons fermentees,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,2121,Vin et boissons fermentees,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,21211010,Vin de banane (isongo),75,Centilitre(s),1089,1156
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,21211020,Vin de banane Urugombo/Urwarwa,75,Centilitre(s),506,550
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,21212010,Vin rouge Drosdy importé en bouteille en verre,375,Millilitre(s),10470,11584
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,21212020,Vin de messe importé,75,Centilitre(s),21344,23592
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,21212030,Vin blanc Martini importé,75,Centilitre(s),26886,29708
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,213,Biere,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,2131,Bière,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,21311010,Amstel blonde(65cl) local,65,Centilitre(s),1837,1866
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,21311020,Amstel Bock(33cl) local,33,Centilitre(s),1295,1290
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,21312010,Primus(72cl) local,72,Centilitre(s),1427,1529
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,21313010,Heineken (65cl) importé,65,Centilitre(s),4594,5273
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,21313020,Heineken (33cl) importé,33,Centilitre(s),3479,3600
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,21314010,Bière de sorgho local,75,Centilitre(s),643,463
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,22,Tabacs,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,221,Tabacs,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,2211,Tabac,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,22111010,Supermatch local,1,cigarettes,103,105
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,22111020,Yes local,1,cigarette,102,119
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,22112010,Feuilles de tabac (turumbombeke),100,Gr,1111,1234
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,3,ARTICLES D'HABILLEMENT ET CHAUSSURES,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31,Articles d'habillement,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,311,Tissus d'habillement,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,3111,Tissus d'habillement,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31111010,Popeline (1ère qualité),1,mètre,2439,2686
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31111020,Tissus pour costume,1,mètre,12026,13466
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31111030,Tissus pour uniforme scolaire,1,mètre,8126,8989
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31112010,Ikanga,4,"","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31112020,Igitenge Demi hollandais,6,yards,32718,34535
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31112030,Igitenge AFRITEX,6,yards,16701,18577
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31113010,Basin moins riche,6,yards,53610,53843
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31113020,Voile en nylon importé (Imvutano),1,Ensemble,57857,60129
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,312,Vetements,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,3121,Vêtements de dessus pour hommes,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31211010,Pantalon neuf importé pour homme,1,Unité,19460,20755
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31211020,Pantalon friperie importé pour homme,1,Unité,6329,7275
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31212010,Chemise de ville longues manches neuve pour homme,1,Unité,18880,20319
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31212020,Chemise de ville courtes manches neuve pour homme,1,Unité,16781,19411
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31212030,Chemise de ville longues manches fripperie pour homme,1,Unité,5603,5848
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31212040,Chemise de ville courtes manches fripperie pour homme,1,Unité,4513,5143
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31213010,Costume pour homme,1,Ensemble,110587,146714
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31214010,Tee-shirts fripperie pour homme,1,Unité,3396,3726
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31215010,Capitula (culotte) fripperie pour homme,1,Unité,5034,5800
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,3122,Sous-vêtements pour hommes,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31221010,Slip neuf Homme en coton avec ceinture élastique,1,Unité,2587,3171
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31221020,Slip neuf Homme en coton sans ceinture,1,Unité,1999,2612
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31221030,Singlet neuf pour homme,1,Unité,3154,3440
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31221040,Singlet friperie pour homme,1,Unité,2106,2474
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31221050,Chaussettes neuf pour homme,1,paire,1254,1368
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31221060,Chaussettes friperie pour homme,1,paire,927,993
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,3123,Vêtements de dessus pour femme,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31231010,Jupe neuve pour femme,1,Unité,12040,14356
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31231020,Jupe friperie pour femme,1,Unité,4803,5135
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31232010,Robe neuve pour femme,1,Unité,23357,26774
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31232020,Ensemble femme,1,Ensemble,41013,44347
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31233010,Blouse importée neuf pour femme,1,Unité,10137,10671
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31233020,Chemise friperie pour femme,1,Unité,3857,4053
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31234010,Pantalon neuf pour femme,1,Unité,14319,17744
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31234020,Pantalon friperie pour femme,1,Unité,5161,5509
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,3124,Sous-vêtements pour femme,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31241010,Slip neuf en coton pour dame,1,Unité,2014,2200
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31241020,Slip friperie en coton pour dame,1,Unité,1351,1407
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31241030,Soutien gorge ordinaire neuf,1,Unité,2858,3015
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31241040,Soutien gorge ordinaire friperie,1,Unité,1637,1713
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31241050,Sous jupe,1,Unité,2326,2506
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31241060,Collants neuf,1,Unité,7224,8173
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31241070,Collants fripperie,1,Unité,4845,6532
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,3125,Vêtements pour enfants et nourrissons,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31251010,Robe neuve pour un enfant de 5 ans,1,Unité,18411,18715
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31251020,Robe fripperie pour un enfant de 5 ans,1,Unité,4167,4476
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31252010,Culotte friperie pour enfant de 6 à  12 ans,1,Unité,3200,3478
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31253010,Tricot fripperie pour enfant de 6 à  12 ans,1,Unité,3070,3145
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31254010,Ensemble jupe et chemise pour fille de 6 à  12 ans,1,Ensemble,18983,19817
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31254020,Ensemble culotte et chemise pour garçon de 6 à  12 ans,1,Ensemble,16960,19449
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31255010,Tee-shirts fripperie pour enfant de 6 à  12 ans,1,Unité,2813,2973
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31255020,Chemise friperie pour enfant de 6 à  12 ans,1,Unité,3008,3492
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31256010,Pantalon friperie pour enfant de 6 à  12 ans,1,Unité,3637,3974
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31256020,Jupe friperie pour enfant de 6 à  12 ans,1,Unité,3302,3549
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31257010,Grenouillère friperie pour bébé de 0 à  2 ans,1,Unité,2178,2191
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31257020,Slip neuf pour garçon de 6 à  12 ans,1,Unité,967,1010
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31257030,Slip neuf pour fille de 6 à  12 ans,1,Unité,920,938
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31257040,Chaussettes friperie pour enfant de 6 à  12 ans,1,paire,719,642
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31257050,Linges blanc en coton,12,Unité,21399,24670
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31257060,Couverture importée pour bébé,1,Unité,15161,15637
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31257070,Flanelle (Ikigoma),1,Unité,7063,7420
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31257080,Couvre-bébé ordinaire importé,1,Unité,10443,11627
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,3126,Vêtements de sport,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31261010,Vêtements de sport pour homme,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31261020,Vêtements de sport neuf pour homme,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31261030,Vêtements de sport fripperie pour homme,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,3,ARTICLES D'HABILLEMENT ET CHAUSSURES,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31,Articles d'habillement,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,312,Vetements,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,3127,Tenues scolaires,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31271010,Ensemble Chemise et culotte/jupe kaki (7 à  9 ans),1,Ensemble,8715,9228
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31271020,Chemise blanche courte manche (7 à  9 ans),1,Unité,4690,4584
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31271030,Culotte bleu (7 à  9 ans),1,Unité,4800,5132
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31271040,Jupe bleu (7à  9 ans),1,Unité,5530,5609
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31271050,Chemise blanche courte manche (13 à  15ans),1,Unité,4786,4963
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31271060,Pantalon bleu (13 à  15 ans),1,Unité,9991,10647
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31271070,Ensemble Chemise blnache et pantalon bleu (13 à  15 ans),1,Ensemble,13854,14769
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31271080,Jupe bleu (13 à  15 ans),1,Unité,6819,6792
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31271090,Ensemble Chemise blnache et jupe bleu (13 à  15 ans),1,Ensemble,10800,11604
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,313,Autres articles vestimentaires et accessoires d'habillement,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,3131,Autres articles vestimentaires et accessoires d'habillement,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31311010,Cravates neufs en polyester,1,Unité,3960,3854
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31311020,Ceinture neuf en similicuir,1,Unité,4241,4407
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31311030,Ceinture en cuir friperie,1,Unité,6326,7934
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31311040,Fils à  tricoter,1,Rouleau,1541,1704
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31311050,Foulards de tête en nylon plissé pour femmes (Igitambara),1,Unité,2169,2276
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,314,Confection,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,3141,Confection,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31411010,Confection de chemise pour homme,1,service,4747,5449
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31411020,Confection de costume pour homme,1,service,32690,37424
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31411030,Réparation d'une chemise pour homme (col),1,service,658,599
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31411040,Confection ensemble pagne pour femme,1,service,11847,13471
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31411050,Confection tenue locale pour femme (Igitenge),1,service,908,988
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31411060,Confection tenue locale pour femme(Imvutano),1,service,2147,2415
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31411070,Réparation d'une blouse (diminution ou augmentation),1,service,1224,1066
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31411080,Confection d'un costume garçon de 6 à  12 ans,1,service,18229,21598
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31411090,Pressing de costume pour homme,1,service,4613,4947
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31411100,Pressing de boubou pour femme,1,service,4114,4124
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31411110,Pressing de voile (Imvutano),1,service,3575,3663
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31411120,Pressing de robe de cérémonie,1,service,5689,5563
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31411130,Location de voile (imvutano),1,Ensemble,3709,3871
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31411140,Location d'une blouse pour voile,1,Unité,3279,1639
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,31411150,Location d'une robe de mariage,1,Unité,64915,67969
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,32,Chaussures,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,321,Chaussures diverses,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,3211,Chaussures pour hommes,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,32111010,Chaussures synthétique homme (non cuir),1,paire,22571,24613
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,32111020,Chaussures en cuir fripperie pour Hommes,1,paire,28700,31246
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,32111030,Sandale neuf en similicuir pour homme,1,paire,20265,20621
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,32111040,Sandale d'occasion en cuir pour homme,1,paire,23676,25926
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,32112010,Sandales en plastic (Yeboyebo) pour adulte,1,paire,4530,3641
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,32112020,Chaussures Ikambambiri,1,paire,3878,4175
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,32113010,Basket pour homme (friperie),1,paire,26810,27173
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,3212,Chaussures pour femmes,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,32121010,Sandale neuf pour femme,1,paire,13042,14069
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,32121020,Sandale d'occasion pour femme occasion,1,paire,10537,11064
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,32122010,Chaussures de sortie en cuir fripperie pour femmes,1,paire,17553,14901
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,32122020,Chaussures de sortie neuf en similcuir pour femme,1,paire,15352,17315
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,32122030,Chaussures de sortie friperie en similcuir pour femme,1,paire,11126,10534
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,3213,Chaussures pour enfants,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,32131010,Chaussures synthétique neuf pour garçon de 6 à  12 ans,1,paire,11843,13964
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,32131020,Chaussures fripperie en cuir pour garçon de 6 à  12 ans,1,paire,12414,12557
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,32131030,Basket friperie pour enfant de 6 à  12 ans,1,paire,10802,13614
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,32131040,Chaussures neuf en similicuir pour fille 6 à  12 ans,1,paire,10645,11082
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,32131050,Chaussures friperie en cuir pour fille 6 à  12 ans,1,paire,10087,10846
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,322,Coordonnerie,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,3221,Réparation,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,32211010,Renforcement de semmelle+talon pour homme,1,service,1612,1675
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,32211020,Remplacement du semelle+talon pour homme,1,service,2394,2347
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,32211030,Renforcement de semmelle pour femme,1,service,1313,1045
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,4,LOGEMENT,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,41,Loyers effectifs,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,411,Loyers effectivement payés par les locataires,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,4111,Loyers effectifs des locataires et sous-locataires,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,41111010,Loyer d'un logement à  2 Pièces (chambre et salon) Catégorie 1,1,Mois,27482,21032
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,41111020,Loyer d'un logement à  2 pièces (chambre et salon) Catégorie 2,1,Mois,37183,29065
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,41111030,Loyer d'un logement à  2 pièces (chambre et salon) Catégorie 3,1,Mois,19172,15809
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,41111040,Loyer d'un logement à  2 pièces (chambre et salon) Catégorie 4,1,Mois,15806,13130
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,41111050,Loyer d'un logement à  2 pièces (chambre et salon) Catégorie 5,1,Mois,10432,10380
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,41112010,Loyer d'un logement à  3 Pièces (2 chambres et salon) Catégorie 1,1,Mois,41594,35948
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,41112020,Loyer d'un logement à  3 Pièces (2 chambres et salon) Catégorie 2,1,Mois,70194,57635
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,41112030,Loyer d'un logement à  3 Pièces (2 chambres et salon) Catégorie 3,1,Mois,38956,30776
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,41112040,Loyer d'un logement à  3 Pièces (2 chambres et salon) Catégorie 4,1,Mois,36689,28002
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,41113010,Loyer d'un logement 4 Pièces (3 chambres et salon): Catégorie 1,1,Mois,57010,44986
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,41113020,Loyer d'un logement 4 Pièces (3 chambres et salon): Catégorie 2,1,Mois,88487,70881
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,41113030,Loyer d'un logement 4 Pièces (3 chambres et salon): Catégorie 3,1,Mois,108445,80327
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,41113040,Loyer d'un logement 4 Pièces (3 chambres et salon): Catégorie 4,1,Mois,41435,40974
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,41114010,Loyer d'une Villa moderne,1,Mois,180512,166974
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,43,Entretien et reparation des logements,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,431,Matériaux pour travaux d'entretien et de réparation des logements,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,4311,Matériaux pour l'entretien et réparation courante,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,43111010,Ciment local BUSECO,50,Kg,27022,25001
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,43111020,Ciment importé de la Tanzanie (SIMBA BORA),50,Kg,27248,27739
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,43112010,Sable,1,Brouette,846,1520
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,43113010,Tôle ondulée locale,1,Unité,16396,17153
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,43113020,Tôle ondulée importé,1,Unité,16778,17839
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,43114010,Brique claustra,1,Unité,986,981
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,43114020,Brique cuite,1,Unité,30,34
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,43119010,Vitre,1,Unité,33551,32396
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,43119020,Carreaux,1,m2,22916,27988
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,43119030,Peintures à  huile (BASCO),4,Litre,22218,23809
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,43119040,Peinture à  eau (BASCO),4,Litre,13351,14604
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,43119050,Fer à  béton,1,longueur,14463,13935
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,43119060,Planche en eucalyptus,1,Unité,3993,4340
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,43119070,Madrier en eucalyptus,1,Unité,4181,4358
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,43119080,Enduits,1,Litre,8799,6407
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,43119090,Tuyau petite dimension 1/2,1,Rouleau,12007,11135
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,43119100,Robinet de ravabo,1,Unité,7144,7824
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,43119110,Robinet 1/2 (SANWA),1,Unité,8319,8652
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,43119120,Mastic (Bois et fer),1,Kg,4321,5105
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,432,Services d'entretien et de réparations courantes,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,43211010,Main d'oeuvre pour petits travaux de maçonnerie (maçon),1,Jour,5147,5251
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,43211020,Main d'oeuvre pour petits travaux de maçonnerie (aide-maçon),1,Jour,2726,2720
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,43212010,Main d'oeuvre pour réparation courante de problème de plomberie (Remplacement de vanne),1,service,2926,2811
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,43212020,Main d'oeuvre pour renouvellement de peinture,1,Unité,10322,10087
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,43212030,Main d'oeuvre pour réparation courante de panne d'électricité (remplacement d'une prise),1,service,2163,2137
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,43212040,Main d'oeuvre pour le remplacement d'une serrure,1,service,2522,2660
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,44,Alimentation en eau et services divers lié au logement,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,441,Alimentation en eau,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,4411,Alimentation en eau,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,44111010,Facture d'eau 1ère tranche (0 à  10 M3),1,m3,315,315
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,44111020,Facture d'eau 2ème tranche (11 à  20 M3),1,m3,613,613
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,44111030,Facture d'eau 3ème tranche (21 M3 et plus),1,m3,802,802
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,44111040,Charges fixes (pour la troisième tranche),1,forfait,6163,5456
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,44112010,Eau achetée de 20 l,20,Litre,73,74
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,44113010,Raccordement au réseau national de distribution d'aau,1,forfait,"",322
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,4421,Services liés au logement,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,44211010,Enlèvement des ordures,1,forfait,7260,10000
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,44211020,Vidange fosse septique par les société privées,3,m3,25449,34425
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,45,Electricite,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,451,Electricité,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,4511,Electricité,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,45111010,Consommation d' électricité 1ère tranche (0 à  50 kwh),1,kwh,73,82
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,45111020,Consommation d' électricité 2ème tranche (51 à  100 kwh),1,kwh,189,290
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,45111030,Consommation d' électricité 3ème tranche (151 kwh et plus ),1,kwh,355,546
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,45111040,Charges fixes (troisième tranche),1,forfait,4440,4953
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,45112010,Raccordement au réseau national de distribution d'électricité,1,forfait,242000,-
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,452,Gaz,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,4521,Gaz,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,45211010,Achat du gaz de 20 kg,20,Kg,131360,-
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,45211020,Achat du gaz de 12,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,453,Combustibles,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,4531,Combustibles liquides,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,45311010,Pétrole lampant à  la station,1,Litre,6402,3190
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,45311020,Pétrole lampant chez le revendeur,1,Litre,3947,3816
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,45312010,Mazout chez le revendeur,1,Litre,2544,2542
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,4532,Combustibles solides,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,45321010,Charbon de bois au détail,1,Kg,603,446
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,45321020,Charbon de bois (demi sac),1,demi-sac,9020,13070
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,45322010,Bois de chauffage,5,Kg,568,1096
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,45322020,Tourbes,1,Kg,8480,-
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,5,MEUBLES,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,51,Meubles,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,511,Meubles et articles d'ameublements,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0511 1,Mobilier pour salle de sejour,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0511 11010,Chaise en bois eucalyptus,1,Unité,15159,16262
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0511 12010,Salon (Canapés,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0511 12020,Salon en bois eucalyptus,1,Ensemble,293910,314274
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0511 13010,Salle à  manger en bois eucalyptus,1,Ensemble,173663,177719
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0511 13020,Armoire/ dressoir en eucalyptus,1,Unité,373902,433337
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0511 13030,Table en bois en eucalyptus,1,Unité,39849,42067
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,5,MEUBLES,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,51,Meubles,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,511,Meubles et articles d'ameublements,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0511 2,Mobilier pour chambre à  coucher et salle de bain,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0511 21010,Matelas en mousse (Exim) 1.40 x 1.90 x 0.15 m,1,Unité,94609,131700
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0511 21020,Matelas en mousse (Exim) 1.60 x 1.90 x 0.15 m,1,Unité,80711,150542
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0511 21030,Matelas en mousse (Dodoma) 1.40 x 1.90 x 0.15 m,1,Unité,158975,176030
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0511 21040,Matelas en mousse (Dodoma) 1.60 x 1.90 x 0.15 m,1,Unité,184474,212006
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0511 22010,Lit simple 1.40 x 1.90 m modèle ordinaire en eucalyptus,1,Unité,95976,107107
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0511 22020,Lit simple 1.60 x 1.90 m modèle ordinaire en eucalyptus,1,Unité,112247,123478
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0511 22030,Armoire de chambre/Garde robe,1,Unité,185670,192786
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,512,Tapis et autres revêtement de sol,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,5121,Tapis et autres revêtement de sol,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,51211010,Tapis en soie 2,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,51211020,Revêtement de sol en Vinyle,1,mètre,7269,8051
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,51211030,Natte (ikirago),1,Unité,4186,5091
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,52,Articles de ménage en textiles,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,521,Articles de ménage en textiles,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,5211,Articles de ménage en textiles,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,52111010,Draps de lit simple (1,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,52111020,Draps de lit double (1,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,52112010,Couverture pour adulte importé (150 x 190) cm (genre zamu),1,Unité,10335,11086
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,52113010,Couvre lits neuf,1,Unité,56959,63697
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,52113020,Essuie-mains en coton (1.40 x 0.70) m importé (grandes dimensions),1,Unité,17508,19132
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,52113030,Essuie-mains en mélange coton polystère (1.40 x 0.70) m importé (grandes dimensions),1,Unité,10994,11882
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,52113040,Nappes de table (complet),1,Ensemble,45462,53699
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,52113050,Serviette en tissu pour vaisselle,1,Unité,2101,2225
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,53,Appareils électroménagers,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,531,Appareil electroménager,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0531 1,Appareil electromenager,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0531 11010,Réfrigérateur avec compartiment de réfrigeration capacité 180l,1,Unité,830000,974537
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0531 11020,Congélateur,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0531 11030,Cuisinière électrique (amashiga),1,Unité,80000,175689
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0531 11040,Plaque chauffante électrique à  double plateaux,1,Unité,20740,70000
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0531 11050,Cuisinière à  charbon en argile,1,Unité,2581,2016
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0531 11060,Cafetières électriques,1,Unité,44125,50589
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,0531 11070,Ventilateur sur pied,1,Unité,41723,78174
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,54,Verrerie,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,541,Verrerie,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,5411,Vaisselle,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,54111010,Assiette creuse en faïence 25 cm,1,Unité,2106,2368
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,54111020,Assiette creuse en plastic 22 cm,1,Unité,789,831
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,54111030,Assiette creuse en métal 22 cm,1,Unité,1183,1241
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,54111040,Soupière/Bol avec couvercle 18 cm en métal importé,1,Unité,2429,2577
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,54111050,Soupière/Bol avec couvercle 18 cm en plastic,1,Unité,1902,1703
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,54112010,Cuillère à  café,1,Unité,1057,1000
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,54112020,Cuillère à  soupe,1,Unité,435,428
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,54112010,Louche,1,Unité,1576,1652
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,54112030,Couteaux pour ménage importé,1,Unité,2016,1481
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,54112040,Verre à  boire coupe,1,Unité,3225,3658
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,54112050,Verre à  boire droit,1,Unité,2315,2594
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,54112060,Gobelet en plastique (Mironko),1,Unité,515,529
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,54112070,Fourchette,1,Unité,546,470
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,54112080,Tasse,1,Unité,2267,2431
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,5412,Autres ustensiles de cuisine,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,54121010,Casserole de cuisine (Isafuriya) de 26 cm de diamètre,1,Unité,7297,7899
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,54121020,Poêle,1,Unité,10973,13002
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,5413,Autres ustensiles de ménage,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,54131010,Seau en plastic avec couvercle 20 l,1,Unité,8392,8909
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,54131020,Bassin (45 cm de diamètre) importé,1,Unité,3341,3562
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,54131030,Thermos 1l,1,Unité,9817,9996
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,54131040,Fers à  repasser éléctrique,1,Unité,37079,41507
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,54131050,Fer à  repasser non électrique,1,Unité,15946,17542
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,55,Outillage et autre matériel pour la maison et le jardin,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,551,Outillage,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,5511,Outillage,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,55111010,Piles torche Tiger,1,paire,1115,1199
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,55111020,Piles Torche panasonic,1,paire,1863,2039
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,55112010,Lampe à  Pétrôle/Mazout (grande),1,Unité,5811,9063
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,55113010,Houe,1,Unité,6401,6840
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,55114010,Ampoule à  incandescence,1,Unité,644,708
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,55114020,Ampoule économique (5 W),1,Unité,2946,2586
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,55114030,Tube fluorescent,1,Unité,2784,3006
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,55114040,Prise,1,Unité,2184,1754
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,55114050,Coupe coupe,1,Unité,4948,5122
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,55114060,Hâche locale,1,Unité,6782,5577
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,55114070,Hâche importée,1,Unité,12799,12727
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,56,Biens et services liés à  l'entretien courant du foyer,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,561,Articles de ménage non durables,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,5611,Articles de ménage non durables,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,56111010,Savons de ménage GIFURANGUWO blanc,100,Gr,279,282
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,56112010,Savons en poudre non emballé blanc (puff),1,Kg,5203,4278
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,56112020,Savons en poudre non emballé bleu (Toss),1,Kg,4623,4844
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,56112030,Savons en poudre non emballé bleu (Type Géntal),1,Kg,3628,4444
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,56113010,Savons de ménage liquide local pour la vaisselle,5,Litre,13216,14197
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,56113020,Savons de ménage liquide importé (Ajax),5,Litre,13273,10017
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,56114010,Briquet,1,Unité,300,300
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,56114020,Allumette importée,1,Boîte,94,94
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,56115010,Bougie locale,1,Unité,375,375
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,56115020,Bougie importée,1,Unité,391,391
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,56116010,Cirage liquide Crown,100,Millilitre,2968,2306
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,56116020,Cirage solide LUDE,40,Gr,833,973
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,56116030,Cirage solide KIWI,32,Gr,1688,1794
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,56117010,Brosse pour chaussures,1,Unité,1016,602
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,5,MEUBLES,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,56,Biens et services liés à  l'entretien courant du foyer,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,561,Articles de ménage non durables,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,5611,Articles de ménage non durables,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,56117020,Râclette,1,Unité,3897,3397
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,56117030,Brosse pour entretien maison,1,Unité,3501,2445
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,56117040,Balai à  tige en bois,1,Unité,3340,3282
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,56117050,Balais à  tige de palmier,1,Unité,461,486
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,562,Services domestiques et services menagers,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,5621,Services domestiques,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,56211010,Salaire d'un groom logé sur place,1,mois,19 438,20 450
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,56211020,Salaire d'une bonne logé sur place,1,mois,18 759,20 396
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,56212010,Salaire d'un gardien logé sur place,1,mois,21455,22 763
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,56212020,Location des chaises en plastique,1,service,280,280
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,56212030,Location de paniers,1,service,367,367
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,6,SANTE,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61,Produits,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,611,Produits,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,6111,Médicaments,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61111020,Acide acétylsalsilique comprimé 500mg,1,Comprimé,701,314
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61111030,Albédazole,1,Comprimé,395,909
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61111040,Métronidazole comprimé,1,Comprimé,1199,1313
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61111050,Mébendazole,1,Comprimé,217,266
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61111060,Prufene,1,Comprimé,848,2854
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61111070,Ibuprofène,1,Comprimé,942,581
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61111080,Paracetamol,1,Comprimé,450,461
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61111090,Efferalgan,1,Comprimé,5104,3860
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61111100,Quinine:comprimé,1,Comprimé,5732,6348
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61111110,Amoxiciline,1,Comprimé,1071,893
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61111120,Miconazole,1,Comprimé,2975,1653
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61111130,Diclofénac,1,Comprimé,1415,2442
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61111140,Glycérine,1,Comprimé,7080,5264
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61111150,Drotavérine,1,Comprimé,2191,1775
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61111160,Eau physiologique,1,Pièce,1472,1558
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,6112,Produits medicaux divers,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61121010,Compresse stérile 10x10 cm,1,Pièce,1481,2622
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61121020,Sparadrap 5x7,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61121030,Sparadrap 5x5cm,1,Pièce,2415,2750
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61121040,Alcool iodé,1,Pièce,1706,1687
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,6113,Appareils et matériel thérapeutiques,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61131010,Termomètre numérique,1,Pièce,6233,6593
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61131020,Tensiomètre numérique,1,Pièce,58869,86856
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61131030,Verre correcteurs,1,Pièce,3354,3999
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,62,Services ambulatoires,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,621,Services médicaux et dentaires,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,6211,Services médicaux et dentaires,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,62111010,Consultation Généraliste en milieu public,1,Service,996,868
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,62111020,Consultation Généraliste en milieu privé,1,Service,2382,2807
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,62111030,Consultation d'un médecin spécialiste dans une clinique privée,1,Service,5923,10111
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,62111040,Consultation d'un médecin spécialiste dans une clinique publique,1,Service,1504,2039
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,62111050,Frais de pose des prothèses dentaires,1,Service,5700,7087
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,62111060,Plombage d'une dent,1,Service,8269,17258
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,623,Services paramedicaux,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,6231,Services de laboratoires et de radiologie,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,62311010,Examen de selle (Clinique publique),1,Service,1499,1650
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,62311020,Examen de selle (Clinique privée),1,Service,1842,1748
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,62311030,Examen de sang NFS (Clinique publique),1,Service,5596,5691
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,62311040,Examen de sang NFS (Clinique privée),1,Service,8119,7861
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,62311050,Radiographie d'un thorax (Clinique publique),1,Service,6921,7133
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,62311060,Echographie (hôpital public),1,Service,7237,7137
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,62311070,Radiographie d'un thorax (Clinique Privée),1,Service,10132,10000
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,62311080,Echographie (Clinique privée),1,Service,10143,12573
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,62311090,Examen d'urine (Clinique publique),1,Service,3199,3273
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,62311100,Examen d'urine (Clinique privée),1,Service,3928,4360
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,62311110,Service d'infirmier,1,Service,1043,1043
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,62311120,Etablissement d'une fiche(Clinique publique),1,Service,700,1000
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,62311130,Etablissement d'une fiche (Clinique privée),1,Service,1000,1000
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,623,Services hospitaliers,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,6231,Services hospitaliers,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,62311010,Hospitalisation dans un hôpital public (salle commune),1,Service,1499,1000
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,62311010,Hospitalisation dans une clinique public (chambre individuelle),1,Service,5000,5096
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,62311020,Hospitalisation dans une clinique privée (chambre individuelle),1,Service,10000,10000
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,62311030,Etablissement d'une fiche d'hospitalisation (Clinique publique),1,Service,700,1000
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,62311040,Etablissement d'une fiche d'hospitalisation (Clinique privée),1,Service,1000,1000
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,7,TRANSPORTS,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,71,Achat de véhicules,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,711,Voitures automobiles,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,7111,Automobile,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,71111010,Toyota Land-cruiser PRADO TX-L7-M/T,1,Unité,-,161 041 812
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,71112010,Voiture Carina Marque TOYOTA (TI),1,Unité,-,12 078 136
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,71112020,Voiture Marque TOYOTA (SPACIO),1,Unité,-,15 097 670
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,712,Cycle et motocycle et vehicules a traction animale,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,7121,Tri-cycle,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,71211010,Vélo KINGA à  bagage,1,Unité,177 485,218 621
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,71211020,Vélo pour enfants,1,Unité,-,193 999
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,71212010,Cyclomoteurs TVS,1,Unité,946 821,1 183 960
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,71212020,Moto TVS 110,1,Unité,1 817 757,2 941 667
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,71212030,Moto SANILLI,1,Unité,2 100 000,2 336 207
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,72,Dépenses d'utilisation des véhicules,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,721,Pièces de rechange et accessoires,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,7211,Pièces détachées et accessoires,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,72111010,Pneu YANA 750x16 JS 14 PLY,1,Unité,204231,226223
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,72111020,Pneu Yana 750x15 12 PLY,1,Unité,219792,182934
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,72111030,Pneu Michelin 155 R 13 MX,1,Unité,104195,105752
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,72111040,Pneu arrière pour cyclomoteur,1,Unité,38750,45517
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,72111050,Pneu pour vélo à  bagage,1,Unité,14613,16379
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,72111060,Pneu arrièrre pour moto TVS,1,Unité,62532,68417
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,72112010,Chambre à  air R14 (voiture),1,Unité,15892,13698
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,72112020,Chambre à  air pour vélo à  bagage,1,Unité,6989,4990
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,72112030,Chambre à  air pour moto TVS,1,Unité,8184,8601
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,72112040,Batterie YOKOHAMA pour automobile (voiture),1,Unité,131 535,160 667
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,72112050,Batterie YOKOHAMA pour automobile (voiture),1,Unité,66 061,72 458
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,72112060,Batterie Varta 12 V 45 AH 210A,1,Unité,93 918,125 607
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,72112070,Batterie Varta 12 V 45 AH 210A,1,Unité,122 411,130 854
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,72112080,Bougie d'allumage pour automobile (voiture),1,paquet,27 626,24 537
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,72112090,Plaquettes de freins (voiture),1,paquet,23 897,16 457
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,722,Carburants et lubrifiants,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,7221,Carburants et lubrifiants,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,72211010,Essence,1,Litre,2160,2341
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,72212010,Gas-oil,1,Litre,2139,2324
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,72213010,Huile moteur pour véhicule Diesel,1,Litre,8243,9455
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,72213020,Huile moteur pour véhicule à  essence,1,Litre,8845,9739
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,72213030,Huile de frein,1,Litre,6202,10 809
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,723,Entretien et réparations de véhicules particuliers,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,7231,Entretien et réparations de véhicules particuliers,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,72311010,Lavage voiture,1,Service,2347,2220
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,72311020,Lavage d'une Jeep 4X4,1,Service,3017,3274
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,72311030,Collage de pneu automobile (un seul trou),1,Service,2559,2579
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,72311040,Collage de pneu pour moto,1,Service,1497,1503
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,72311050,Vidange,1,Service,1878,2150
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,72311060,Remplacement de plaquettes de freins,1,Service,3272,3883
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,724,Services divers relatifs aux véhicules personnels,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,7241,Autres services relatifs aux véhicules personnels,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,72411010,Vignette auto (Taxe de roulage),1,Service,26 800,-
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,72411020,Contrôle technique,1,Service,13 743,16 546
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,72411030,Leçon auto-école: théorie,1,Service,14 938,22 287
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,72411040,Leçon auto-école: pratique,1,Service,28 799,21 107
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,72411050,Frais des plaques d'immatriculation véhicule,1,Service,-,100 000
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,73,Services de transport,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,732,Transport routier de passagers,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,7321,Transport routier de passagers,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,73211010,Taxi-Voiture: petite course itinéraire libre,1,Service,3333,3093
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,73211020,Taxi - BAJAJ: petite course itinéraire libre,1,Service,1500,1361
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,73212010,Taxi-moto: petite course itinéraire libre,1,Service,817,717
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,73213010,Taxi - vélo: petite course itinéraire libre,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,73214010,Bus privé en ville,1,Billet,500,633
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,73215010,Transport de passager de la province vers Bujumbura Mairie,1,Billet,5789,6637
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,73215020,Transport de passager de de Bujumbura Mairie vers Cankuzo,1,Billet,12729,13239
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,73215030,Transport de passager de de Bujumbura Mairie vers Muyinga,1,Billet,6532,11000
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,73215040,Transport de passager de de Bujumbura Mairie vers Makamba,1,Billet,811,10000
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,73215050,Transport de passager de de Bujumbura Mairie vers Gitega,1,Billet,"",6500
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,73215060,Transport de passager de de Bujumbura Mairie vers Cibitoke,1,Billet,1610,4000
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,733,Transport aérien de passagers,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,7331,Transport aérien de passagers,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,73311010,Transport aérien Bujumbura-Nairobi,1,Billet,881101,869983
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,73311020,Transport aérien Bujumbura-Addis,1,Billet,1022306,1079904
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,73311030,Transport aérien Bujumbura-Belgique,1,Billet,-,2126262
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,73311040,Transport aérien Bujumbura-Dubaï,1,Billet,747701,774915
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,736,Autres types de transports et services de transport,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,7361,Autres types de transports et services de transport,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,73611010,Location de véhicule avec chauffeur voiture (TI),1,Jour,60000,70000
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,73611020,Location de véhicule avec chauffeur jeep (PRADO),1,Jour,70000,80000
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,8,COMMUNICATION,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81,Communication,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,811,Services postaux,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,8111,Services postaux,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81111010,Frais d'envoi de mandat postal Intérieur du pays (mandat de 20 000 F),1,Service,1849,1849
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81111020,Envoi de Courrier (20 à  50 kg) Intérieur du pays,1,Service,3675,3675
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81111030,Lettre à  la poste vers l'Intérieur,1,Service,881,881
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81111040,Lettre à  la poste vers l'Afrique,1,Service,1206,1206
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81111050,Lettre à  la poste vers l'Europe,1,Service,1228,1228
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,812,Matériel de téléphonie et de télécopie,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,8121,Matériel de téléphonie et de télécopie,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81212010,Poste de téléphone mobile Nokia,1,Unité,32566,36242
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81212020,Poste de téléphone mobile Samsung,1,Unité,25167,40260
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81212030,Téléphone mobile ITEL,1,Unité,35457,41764
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81212040,Téléphone mobile TECHNO (Android),1,Unité,50867,127389
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81212050,Téléphone mobile SAMSUNG (Android),1,Unité,-,190809
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,9,LOISIRS ET CULTURES,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,91,Matériel audiovisuel,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,911,Appareils de réception,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,9111,Appareils de réception,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,91111010,Radio simple,1,Unité,22423,24352
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,91111020,SABUFA (Sonny),1,Unité,139178,153927
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,91112010," Téléviseur SHARP en couleur 55 cm (21"")",1,Unité,219692,207789
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,91112020," Téléviseur SONY en couleur 55 cm (21"") i",1,Unité,185805,229906
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,91112030," Téléviseur JVC en couleur 55 cm (21"")",1,Unité,183269,248020
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,91112040," Téléviseur numérique écran plat (32"") ""Samsung""",1,Unité,653958,813752
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,91112050,Antenne de télévision (Air Start),1,Unité,34604,33747
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,91112060,Décodeur de chaine cryptée,1,Unité,65251,87375
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,91113010,Lecteur DVD,1,Unité,70447,74859
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,913,Matériel de traitement de l'information et supports d'enregistrement,"","",1 042 448,""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,9131,Matériel de traitement de l'information et supports d'enregistrement,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,91311010,Calculatrice scientifique CASIO,1,Unité,8471,10103
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,91311020,Calculatrice commerciale,1,Unité,6193,7847
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,91311030,Micro-ordinateur HP,1,Unité,-,910235
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,91311040,Micro-ordinateur portable HP,1,Unité,1300000,1404398
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,91311050,Micro-ordinateur portable TOSHIBA,1,Unité,-,-
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,91311060,Micro-ordinateur portable Net book SAMSUNG,1,Unité,1404167,1951250
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,91311070,Micro-ordinateur portable Net book ACER,1,Unité,1042448,1683333
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,91311080,Onduleur APC 650 VA,1,Unité,194627,256809
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,91311090,Onduleur UPS 1500 VA,1,Unité,500000,500000
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,91311100,Logiciel Anti-virus (Kaspersky),1,Unité,40000,44539
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,91311110,Clé USB (flash disk 4 GB),1,Unité,10077,12533
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,91311120,Carte Mémoire (2 GB),1,Unité,7063,8860
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,93,Autres articles et matériel de loisirs,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,931,Jeux et jouets,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,9311,Jeux et jouets,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,93111010,Voiture (jouet,1,Unité,3300,5135
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,93111020,Carte (Titanique),1,Paquet,453,457
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,93111030,Ballon en plastique pour enfant,1,Unité,1829,1919
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,933,Produits pour jardins,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,9331,Produits pour jardins,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,93311010,Engrais chimique - NPK,1,Kg,1671,1840
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,93311020,Engrais chimique - Urée,1,Kg,1763,1820
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,93311030,Engrais chimique - DAP,1,Kg,1778,1814
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,93311040,Engrais chimique -Kcl,1,Kg,1538,1666
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,93311050,Vaccination et traitement des animaux (contre la rage),1,Service,4000,6085
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,93311060,Pot de fleur,1,Bouquet,"",28716
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,94,Services récréatifs et culturels,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,941,Services récréatifs et sportifs et services culturels,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,9411,Services culturels,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,94111010,Abonnement à  des chaînes Télé ou radio (bouquet basic),1,Mois,15000,14271
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,94111020,Services de photographe (développement,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,94111030,Services de photographe (développement,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,94111040,Album pour photo grand format 200 pauses,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,94111050, Album pour photo petit format à  24 pauses;at,1,Unité,3104,3194
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,94111060,Droit d'entrée au Stade de football: Championat international (Pourtour),1,Billet,"",615
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,94111070,Droit d'entrée au Stade de football: Championat local (Pourtour),1,Billet,643,659
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,94111080,Admission à  la piscine (une séance),1,Billet,2833,2929
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,94111090,Droit d'entrée dans une salle de vidéo des quartiers populaires,1,Billet,124,149
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,95,Journaux,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,951,Livres,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,9511,Livres journaux et publications périodiques,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,95111010,Livre de mathématique de 10 ème année,1,Unité,-,12791
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,95111020,Livre de Français de 10 ème année,1,Unité,-,12575
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,95111030,Journal le renouveau,1,Unité,-,1000
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,95111040,Journal UBUMWE,1,Unité,1200,943
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,954,Papeterie et matériel de dessin et imprimes divers,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,9541,Papeterie et imprimes divers,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,95411010,Cahier de 48 feuilles quadrillé,1,Unité,523,537
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,95411020,Cahier de 60 feuilles quadrillé,1,Unité,672,650
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,95411030,Cahier de 100 feuilles quadrillé,1,Unité,990,989
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,95412010,Stylos à  bille,1,Unité,381,402
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,95413010,Registre quadrillé,1,Unité,5045,5576
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,95413020,Reliure avec carton simple,1,Unité,1591,1671
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,95413030,Reliure avec carton et transparent,1,Unité,2063,1790
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,95413040,Rame de papier double A,1,Paquet,12606,13683
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,95413050,Enveloppes sac A4,1,Unité,799,348
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,95413060,Enveloppes par avion petite dimension,1,Unité,555,77
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,95413070,Crayons HB,1,Unité,479,180
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,95413080,Late en plastic transparent,1,Unité,743,546
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,95413090,Boîte mathématical,1,Boîte,1517,1570
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,95413100,Boîte de couleur petit format,1,Boîte,1395,1335
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,96,Forfaits touristiques,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,961,Forfaits touristiques,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,9611,Forfait et circuits touristiques composites,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,96111010,Voyage à  forfait (Pèlerinage à  la Mecque),1,Service,6429414,6429414
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,96111020,Tourisme à  l'intérieur du pays,1,Service,852,624
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,10,ENSEIGNEMENT,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,101,Enseignement pré-élémentaire et primaire,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1011,Enseignement pré-élémentaire et primaire,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,10111,Enseignement pré-élémentaire et primaire,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,101111010,Frais de scolarité jardin d' enfants maternelle publique,1,Trimestre;,8500,8 555
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,101111020,Frais de scolarité jardin d' enfants ou maternelle privée,1,Trimestre;,35948,43 494
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,101112010,Frais de scolarité dans une école primaire privée,1, Trimestre;,44708,47 948
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,102,Enseignement secondaire,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1021,Enseignement secondaire,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,10211,Enseignement secondaire,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,102111010,Frais de scolarité dans une école secondaire publique,1,Trimestre;,5266,7 125
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,102111020,Frais de scolarité dans une école secondaire privée,1,Trimestre;,50872,53 989
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,102112010,Frais de renforcement des élèves d'enseignement secondaire,1, Trimestre;,7130,8371
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,10,ENSEIGNEMENT,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,104,Enseignement supérieur,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1041,Enseignement supérieur,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,10411,Enseignement supérieur,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,104111010,Frais de scolarité dans le supérieur privée : Droit/Economie,1,Trimestre,101238,113538
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,104111020,Frais de scolarité dans le supérieur privée : Informatique,1,Trimestre,94663,135853
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,104112010,Frais de scolarité dans le supérieur privée ( Master) : Droit/Economie,1,Service,75000,75000
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,105,Autre type d'enseignement,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1051,Autre type d'enseignement,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,10511,Enseignement non défini par niveau,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,103111010,Enseignement secondaire extrascolaire (Informatique),1,Heure,1859,1500
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,103111020,Enseignement secondaire extrascolaire (Anglais),1,Heure,-,649
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11,RESTAURANTS ET HàTELS,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111,Services de restauration,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1111,Restaurants,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11111,Restaurants et cafés,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111111010,Petit-dejeuner hors ménage: (agatoke),1,Service,1021,1110
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111111020,Petit-déjeuner hors ménage (sandwich simple +thé noir),1,Service,654,780
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111111031,Petit-déjeuner hors ménage (sandwich simple +thé au lait),1,Service,844,972
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111111040,Lait frais au cafèteriat,500,Millilitre,756,779
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111111050,Sandwich au cafétariat,100,Gr,365,445
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111111060,Tasse de thé noir,1,Tasse(s),239,252
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111111070,Tasse de thé au lait,1,Tasse(s),367,409
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111111080,Omlettes nature (2 oeufs),1,Service,1067,1167
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111112010,Repas (Haricot + Riz) dans un restaurant,1,Service,1026,1127
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111112020,Repas (Haricot + Banane ou pomme de terre) dans un restaurant,1,Service,1909,1120
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111112030,Repas (petit pois frais+ Banane ou pomme de terre) dans un restaurant,1,Service,2507,1621
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111112040,Repas (Pâte+viande) dans un restaurant,1,Service,1563,1678
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11112,Bars,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111121010,Brochettes simple de viande de chèvre,1,Service,1960,1215
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111121020,Brochettes de viande de chèvre accompagné,1,Service,1877,1999
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111121030,Brochettes simple de viande de vache,1,Service,1347,1387
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111121040,Brochettes de viande de vache accompagné,1,Service,2030,2097
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111121050,Brochettes simple de poisson,1,Service,5673,5462
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111121060,Brochettes accompagné de poisson,1,Service,6696,7268
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111122010,Quart de poulet,1,Service,5482,5754
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111122020,Ragoût,1,Service,4883,5519
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111122030,Jaret,1,Service,4800,5439
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111122040,Mchopo,1,Service,2711,3397
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111123010,Bière Amstel Blonde 65 Cl dans un cabaret,65,Centilitre,1861,1881
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111123020,Bière Amstel Bock 33 Cl au cabaret,33,Centilitre,1307,1307
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111123030,Bière Primus 72 Cl au cabaret,72,Centilitre,1453,1542
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111123040,Bière Primus 50 Cl (AKABAJU) au cabaret,50,Centilitre,1156,1120
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111124010,Vin de banane INSONGO au cabaret,75,Centilitre,1186,1165
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111124020,Vin de banane RUGOMBO/URWARWA au cabaret,75,Centilitre,525,587
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111125010,Vin rouge au cabaret (Drosty 375 ml),375,Centilitre,11171,12487
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111125020,Vin blanc martini blanc (1l) au cabaret,1,Litre,21703,31038
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111125030,(whisky J&B au cabaret,1,Litre,41509,57415
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111125040,Vin de messe au cabaret,75,Centilitre,23429,27284
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111126010,Heineken 65 cl au cabaret,65,Centilitre,4713,4497
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111126020,Heineken 33 cl au cabaret,33,Centilitre,3332,3644
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111126030,Bièrre NYONGERA 72 Cl dans cabaret,72,Centilitre,1188,1160
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111126040,Bière de sorgho,75,Centilitre,397,451
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,111127010,Boissons gazeuse en bouteille en verre au cabarêt (Fanta),300,Millilitre,837,756
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,112,Services d'hébergement,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1121,Hôtels et services d'hébergement,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,11211,Hôtels et services d'hébergement,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,112111010,Chambre dans un hôtel international Capitale,1,Nuit(s),-,5589
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,112111020,Chambre dans un hôtel moyenne classe (lit simple),1,Nuit(s),11501,12758
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,112111030,Chambre dans un hôtel simple (sanitaire interne dans la chambre),1,Nuit(s),9205,9908
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,112111040,Chambre dans un hôtel simple (sanitaire externe de la chambre),1,Nuit(s),6192,6667
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,12,BIENS ET SERVICES DIVERS,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121,Soins corporels,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1211,Salons de coiffure et instituts de soins et de beauté,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,12111,Salons de coiffure et instituts de soins et de beauté,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121111010,Coupe ordinaire pour homme,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121112010,Coupe ordinaire pour dame,1,Service,831,862
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121112020,Coupe carré pour dame,1,Service,2890,3119
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121112030,Coupe cheveux lisse pour dame,1,Service,1907,1962
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121112040,Coiffure lisse simple et lavage,1,Service,2647,2847
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121112050,Coiffure moderne et lavage,1,Service,6736,8054
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121112060,Coiffure sans lavage,1,Service,1991,2202
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121113010,Défrisage des cheveux (main d'oeuvre seulement),1,Service,3240,3223
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121113020,Défrisage des cheveux (produit+main d'oeuvre),1,Service,8107,8205
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121113030,Tresse natte,1,Service,8840,8758
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121113040,Tresse mèches longues,1,Service,11310,10973
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1213,Autres appareils electriques ou non et articles pour soins,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,12131,Appareils et articles pour soins corporels,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121311010,Brosse à  dent: White dent,1,Unité,529,673
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121211020,Peigne à  cheveux lisses en plastic,1,Unité,671,764
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121211030,Peigne à  cheveux naturels en plasctic,1,Unité,476,499
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121311040,Coupe à  ongles,1,Unité,506,517
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121211050,Lame de rasoir TATRA,1,Unité,190,114
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121211060,Rasoir Bic,1,Unité,508,535
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,12132,Produits pour soins corporels,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121321010,Pâte dentifrice Colgate (Herbal) 100ml,100,Millilitre,2870,3009
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121321020,Pâte dentifrice White dent 190g,190,Gr,2900,3118
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121330103,Pâte dentifrice Signal 120ml,120,Millilitre,3478,3971
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121322010,Lait de toilette local COPAR (Citron 500ml),500,Millilitre,5573,5942
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121322020,Lait de toilette importé (Revlon 600ml),600,Millilitre,8681,11091
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121322030,Lait de toilette importé Vasélyne (100 ml),100,Millilitre,4276,4125
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121322040,Movit (lait 260ml),260,Millilitre,2563,2514
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121323010,Familial savonor,200,Gr,1274,1443
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121323020,Shaza savonor,150,Gr,823,959
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121323030,Orissa savonor,100,Gr,632,696
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,12,BIENS ET SERVICES DIVERS,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,12132,Produits pour soins corporels,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121323040,Savon de toilette GIV,80,Gr,661,701
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121323050,Savon de toilette Impérial,200,Gr,1704,1980
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121323060,Savon de toilette FA,100,Gr,1544,1905
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121323070,Savon médicinal local Muganga,85,Gr,588,667
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121323080,Dettol importé (savon),100,Gr,1355,1388
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121324010,Parfums pour Femme (innocence original),18,Millilitre,10359,11152
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121324020,Vernis simple 18ml,18,Millilitre,1345,1637
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121324030,Rouge à  lèvre,8,Gr,1306,1195
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121324040,Papier hygiénique de bonne qualité (blanc),1,Rouleau,763,905
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121324050,Papier hygiénique de moyenne qualité (rose),1,Rouleau,686,849
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121324060,Couches jetables Pamper's pour bébé de 3 a 6 kilos,1,Unité,660,660
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121324070,Poudre compact (fond de teint 17 gr),17,Gr,1140,1106
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121324080,Poudre blanc vestline,100,Gr,751,898
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121324090,Tampons hygiéniques (Cotex Feathers),1,Paquet,1981,2040
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,123,Effets personnels n.c.a,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1231,Autres appareils et articles pour soins corporels,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1231,1 Articles de bijouterie et d'horlogerie,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,123111010,Boucles d'oreille (vis),1,Pair(e),2256,2292
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,123111020,Bague en or (3 gr),1,Unité,69667,90000
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,123,Effets personnels n.c.a,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1232,Autres effets personnels,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1232 1,Autres effets personnels,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,123211010,Sacoche,1,Unité,21191,21699
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,123211020,Valise à  roulette,1,Unité,40310,42781
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,123211030,Valise simple,1,Unité,23069,28779
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,123211040,Sac à  dos,1,Unité,13812,16547
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,123212010,Parapluies droits,1,Unité,5456,6252
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,123212020,Parapluies pliants,1,Unité,6297,7503
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,123212030,Sac à  main en similicuir,1,Unité,15696,16713
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,123212040,lunettes solaires pour femmes bas de gamme,1,Unité,3111,3273
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,123212050,lunettes solaires pour homme bas de gamme,1,Unité,5675,3143
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,123212060,Porte-monnaie en similicuir,1,Unité,2872,3188
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,123212070,Cercueils ordinaire pour adulte,1,Unité,39502,41840
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,123212080,Cercueils ordinaire pour enfants (0 - 5 ans),1,Unité,19644,21320
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,124,Protection sociale et assurance,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1241,Protection sociale et assurances,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,12411,Protection sociale et autres assurances,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,124111010,Assurance automobile personnel affaire et promenade,1,Service,25181,23963
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,124111020,Assurance motocyclette affaire et promenade,1,Service,24738,23900
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,126,Services financiers,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1261,Services financiers,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,12611,Services financiers,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,126111010,Frais de tenu de compte (moyenne ECOBANK,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,126111020,Frais de transfert de 100 USD à  la WESTERN Union,1,Service,23390,18119
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,126111030,Frais d'achat de carte VISA,1,Service,56709,68865
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,127,Autres services n.c.a,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,1271,Autres services n.c.a,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,12711,Frais d'autres services y compris frais de mouture,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,127111010,Frais de moulin manioc,1,Service,48,68
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,127111020,Frais de moulin maïs,1,Service,81,109
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,127112010,Frais d'un casier judiciaire,1,Service,1500,1214
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,127112020,Frais d'une attestation de nationalité,1,Service,714,825
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,127112030,Frais d'établissement d'un extrait de naissance,1,Service,968,1051
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,127112040,Frais d'établissement d'un extait de mariage,1,Service,1063,1057
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,127112050,Frais d'établissement d'Extrait d'acte de décès,1,Service,981,1037
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,127112060,Frais d'établissement d'une attestation d'état civil,1,Service,889,926
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,127112070,Frais d'établissement d'une attestation résidence,1,Service,1660,1546
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,127112080,Frais d'établissement d'une attestation d'identité complète,1,Service,878,920
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,127112090,Frais d'établissement de Passeport,1,Service,50000,235000
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,127112100,Frais d'établissement d'un laissé passé pour l'EAC,1,Service,1000,13210
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,127112110,Frais d'établissement d'un laissé passé pour les Pays membres de la CEPGL,1,Service,-,11537
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,127112120,Frais de délivrance de Carte Nationale d'Identité,1,Service,506,503
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,127112130,Frais de notaire,1,Service,2000,2000
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,127112140,Frais de conservation de dépouille à  la morgue,1,Service,11028,11341
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,127112150,Frais d'annonce à  la radio (Communiqué de décès),1,Service,295,300
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,127112160,Frais d'annonce à  la télévision (Publicité),1,Service,-,21684
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,121321030,Pâte dentifrice Signal 120ml,120,Millilitre,3478,""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61111020,Acide acétylsalsilique comprimé 500 mg,"",Comprimé,701,""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61111030,Albédazole 400 mg,"",Comprimé,395,""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61111040,Métronidazole comprimé 250 mg,"",Comprimé,460,""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61111050,Mébendazole 100 mg,"",Comprimé,1016,""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61111060,Brufène 400 mg,"",Comprimé,848,""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61111070,Ibuprofène 400 mg,"",Comprimé,137,""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61111080,Paracetamol 500 mg,"",Comprimé,66,""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61111090,Efferalgan 500 mg,"",Comprimé,887,""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61111100,Quinine:comprimé 500 mg,"",Comprimé,1253,""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61111110,Amoxiciline 250 mg,"",Comprimé,212,""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61111120,Miconazole 400 mg,"",Comprimé,2975,""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61111130,Diclofénac100 mg,"",Comprimé,1415,""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,127112070,Frais d'établissement d'une attestation résidence,"",Service,1660,""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,61111140,Glycérine(adulte),"",Comprimé,1588,""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,813,Téléphone,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,8131,Communication téléphonique,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81311010,Econet LEO vers LEO-Econet Heure normale,1,Minute,165,165
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81311020,Econet LEO vers Opérateur Fixe,1,Minute,257,257
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81311030,Econet LEO vers ONAMOB,1,Minute,220,220
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81311040,Econet LEO vers LUMITEL,1,Minute,220,220
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81311050,Econet LEO vers Ouganda,1,Minute,1500,1500
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81311060,Econet LEO vers Afrique du sud,1,Minute,1500,1500
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81311070,Econet LEO vers Belgique,1,Minute,800,800
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81311080,Econet LEO vers Washington,1,Minute,800,800
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81311090,ONAMOB vers ONAMOB Heure normale,1,Minute,96,96
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81311100,ONAMOB vers Opérateur Fixe,1,Minute,96,96
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81311110,ONAMOB vers LUMITEL,1,Minute,198,198
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,813,Téléphone,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,8131,Communication téléphonique,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81311120,ONAMOB vers Econet LEO,1,Minute,198,198
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81311130,ONAMOB vers Ouganda,1,Seconde,180,180
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81311140,ONAMOB vers Afrique du sud,1,Seconde,180,180
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81311150,ONAMOB vers Belgique,1,Seconde,188,188
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81311160,ONAMOB vers Washington,1,Seconde,150,150
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81311170,LUMITEL vers LUMITEL Heure normale,1,Minute,96,96
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81311180,LUMITEL vers Opérateur Fixe,1,Minute,96,96
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81311190,LUMITEL vers ONAMOB,1,Minute,198,198
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81311200,LUMITEL vers Econet LEO,1,Minute,198,198
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81311210,LUMITEL vers Ouganda,1,Minute,420,420
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81311220,LUMITEL vers Afrique du sud,1,Seconde,180,180
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81311230,LUMITEL vers Belgique,1,Seconde,188,188
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81311240,LUMITEL vers Washington,1,Seconde,150,150
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81312010,Opérateur (ONATEL) Fixe vers Opérateur Fixe Heure normale,1,Minute,36,36
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81312020,Opérateur (ONATEL) Fixe vers LUMITEL,1,Minute,158,158
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81312030,Opérateur (ONATEL) Fixe vers ONAMOB,1,Minute,72,72
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81312040,Opérateur (ONATEL) Fixe vers ECONET LEO,1,Minute,186,186
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81312050,Opérateur (ONATEL) Fixe vers Ouganda,1,Minute,210,290
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81312060,Opérateur (ONATEL) Fixe vers Afrique du sud,1,Seconde,120,120
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81312070,Opérateur (ONATEL) Fixe vers Belgique,1,Seconde,188,188
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81312080,Opérateur (ONATEL) Fixe vers Etats Unis (Washington),1,Seconde,120,120
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,8132,Frais de connexion internet et assimilés,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81321010,Frais de connexion internet dans un cybercafé,1,Heure,900,900
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81321020,Achat prépayées ECONET-LEO pour l'Internet-bouquet 100Mb-7 jours,1,bouquet,2500,2500
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81321030,Achat prépayées ECONET-LEO pour l'Internet-bouquet 500Mb-15 jours,1,bouquet,5000,5000
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81321040,Achat prépayées ECONET -LEO pour l'Internet-bouquet 5Gb -30 jours,1,bouquet,22000,22000
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81321050,Achat prépayées LUMITEL pour l'Internet-Bouquet 100Mb - 7 jours,1,bouquet,1000,1000
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81321060,Achat prépayées LUMITEL pour l'Internet-Bouquet 550Mb -30 jours,"","",5000,5 000
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81321070,Achat prépayées LUMITEL pour l'Internet-Abonnement 1,"","","",""
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81321080,Achat prépayées ONAMOB pour l'Internet 100Mb-7jours,1,bouquet,1000,1000
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81321090,Achat prépayées ONAMOB pour l'Internet 5Gb-30jours,1,bouquet,5000,5000
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,81321100,Achat prépayées ONAMOB pour l'Internet 10Gb-30 jours,1,bouquet,10000,10000
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,127112100,Frais d'établissement d'un laissé passer pour l'EAC,1,Service,500,-
+12.02,Prix moyen à la consommation des ménages,ISTEEBU,127112110,Frais d'établissement d'un laissé passer pour les Pays membres de la CEPGL,1,Service,-,-

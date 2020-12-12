@@ -9,3 +9,6 @@ id_tableau,titre_tableau,source,categorie,sous-categorie,Libellés,2010,2011,201
 17.06,"Emplois du PIB (en milliards de Fbu, prix courants)",ISTEEBU,(2) Investissement : (21) + (22),Investissement,Investissements:Formation brute de capitale fixe-Publique,184,207,199,199,206,129,108,125
 17.06,"Emplois du PIB (en milliards de Fbu, prix courants)",ISTEEBU,(2) Investissement : (21) + (22),Variations des stocks,Variations des stocks,17.6,25,50,46,-7.9,56,56,78
 17.06,"Emplois du PIB (en milliards de Fbu, prix courants)",ISTEEBU,(3) Exportation nette (31) – (32),Exportation nette,Exportation nette,-501.4,-717.5,-813.9,-1085.1,-1074.1,-996.3,-899.3,-1070
+17.06,"Emplois du PIB (en milliards de Fbu, prix courants)",ISTEEBU,(3) Exportation nette (31) – (32),(31) Exportations,Exportations,242.8,246.8,326,345.4,362.4,278.4,325.4,408.3
+17.06,"Emplois du PIB (en milliards de Fbu, prix courants)",ISTEEBU,(3) Exportation nette (31) – (32),(32) Importations,Importations,744.2,964.3,1140,1430,1436,1275,1225,1478
+17.06,"Emplois du PIB (en milliards de Fbu, prix courants)",ISTEEBU,PIB = (1) + (2) + (3),PIB,PIB,2501,2820,3357,3813,4185,4418,4848,5562

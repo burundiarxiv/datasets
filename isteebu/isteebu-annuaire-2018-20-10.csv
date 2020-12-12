@@ -9,3 +9,107 @@ id_tableau,titre_tableau,source,province,cause,2016,2017,2018
 20.17,Répartition des accidents de la circulation routière par province selon les causes,MSP,Bujumbura,Excès de vitesse,111,44,65
 20.18,Répartition des accidents de la circulation routière par province selon les causes,MSP,Bujumbura,Ivresse du conducteur,2,0,24
 20.19,Répartition des accidents de la circulation routière par province selon les causes,MSP,Bujumbura,Mauvais état du vehicle,12,4,19
+20.20,Répartition des accidents de la circulation routière par province selon les causes,MSP,Bujumbura,Autres,348,45,84
+20.21,Répartition des accidents de la circulation routière par province selon les causes,MSP,Bujumbura,TOTAL,536,137,284
+20.22,Répartition des accidents de la circulation routière par province selon les causes,MSP,Bururi,Etat de la chaussée ,38,26,14
+20.23,Répartition des accidents de la circulation routière par province selon les causes,MSP,Bururi,Excès de vitesse,36,29,45
+20.24,Répartition des accidents de la circulation routière par province selon les causes,MSP,Bururi,Ivresse du conducteur,0,1,1
+20.25,Répartition des accidents de la circulation routière par province selon les causes,MSP,Bururi,Mauvais état du vehicle,0,1,1
+20.26,Répartition des accidents de la circulation routière par province selon les causes,MSP,Bururi,Autres,1,12,7
+20.27,Répartition des accidents de la circulation routière par province selon les causes,MSP,Bururi,TOTAL,75,69,68
+20.28,Répartition des accidents de la circulation routière par province selon les causes,MSP,Cankuzo,Etat de la chaussée ,9,6,14
+20.29,Répartition des accidents de la circulation routière par province selon les causes,MSP,Cankuzo,Excès de vitesse,38,4,13
+20.30,Répartition des accidents de la circulation routière par province selon les causes,MSP,Cankuzo,Ivresse du conducteur,37,2,0
+20.31,Répartition des accidents de la circulation routière par province selon les causes,MSP,Cankuzo,Mauvais état du vehicle,1,1,0
+20.32,Répartition des accidents de la circulation routière par province selon les causes,MSP,Cankuzo,Autres,10,11,10
+20.33,Répartition des accidents de la circulation routière par province selon les causes,MSP,Cankuzo,TOTAL,95,24,37
+20.34,Répartition des accidents de la circulation routière par province selon les causes,MSP,Cibitoke,Etat de la chaussée ,31,34,24
+20.35,Répartition des accidents de la circulation routière par province selon les causes,MSP,Cibitoke,Excès de vitesse,112,82,87
+20.36,Répartition des accidents de la circulation routière par province selon les causes,MSP,Cibitoke,Ivresse du conducteur,0,0,0
+20.37,Répartition des accidents de la circulation routière par province selon les causes,MSP,Cibitoke,Mauvais état du vehicle,1,1,5
+20.38,Répartition des accidents de la circulation routière par province selon les causes,MSP,Cibitoke,Autres,8,7,20
+20.39,Répartition des accidents de la circulation routière par province selon les causes,MSP,Cibitoke,TOTAL,159,124,136
+20.40,Répartition des accidents de la circulation routière par province selon les causes,MSP,Gitega,Etat de la chaussée ,66,44,34
+20.41,Répartition des accidents de la circulation routière par province selon les causes,MSP,Gitega,Excès de vitesse,81,55,137
+20.42,Répartition des accidents de la circulation routière par province selon les causes,MSP,Gitega,Ivresse du conducteur,1,0,3
+20.43,Répartition des accidents de la circulation routière par province selon les causes,MSP,Gitega,Mauvais état du vehicle,11,16,9
+20.44,Répartition des accidents de la circulation routière par province selon les causes,MSP,Gitega,Autres,14,43,54
+20.45,Répartition des accidents de la circulation routière par province selon les causes,MSP,Gitega,TOTAL,172,158,237
+20.46,Répartition des accidents de la circulation routière par province selon les causes,MSP,Karuzi,Etat de la chaussée ,22,7,12
+20.47,Répartition des accidents de la circulation routière par province selon les causes,MSP,Karuzi,Excès de vitesse,34,17,22
+20.48,Répartition des accidents de la circulation routière par province selon les causes,MSP,Karuzi,Ivresse du conducteur,2,0,1
+20.49,Répartition des accidents de la circulation routière par province selon les causes,MSP,Karuzi,Mauvais état du vehicle,0,5,3
+20.50,Répartition des accidents de la circulation routière par province selon les causes,MSP,Karuzi,Autres,10,8,4
+20.51,Répartition des accidents de la circulation routière par province selon les causes,MSP,Karuzi,TOTAL,68,37,42
+20.52,Répartition des accidents de la circulation routière par province selon les causes,MSP,Kayanza,Etat de la chaussée ,15,33,23
+20.53,Répartition des accidents de la circulation routière par province selon les causes,MSP,Kayanza,Excès de vitesse,111,59,43
+20.54,Répartition des accidents de la circulation routière par province selon les causes,MSP,Kayanza,Ivresse du conducteur,16,7,5
+20.55,Répartition des accidents de la circulation routière par province selon les causes,MSP,Kayanza,Mauvais état du vehicle,13,8,10
+20.56,Répartition des accidents de la circulation routière par province selon les causes,MSP,Kayanza,Autres,15,16,37
+20.57,Répartition des accidents de la circulation routière par province selon les causes,MSP,Kayanza,TOTAL,170,123,118
+20.58,Répartition des accidents de la circulation routière par province selon les causes,MSP,Kirundo,Etat de la chaussée ,17,8,6
+20.59,Répartition des accidents de la circulation routière par province selon les causes,MSP,Kirundo,Excès de vitesse,21,19,16
+20.60,Répartition des accidents de la circulation routière par province selon les causes,MSP,Kirundo,Ivresse du conducteur,2,4,4
+20.61,Répartition des accidents de la circulation routière par province selon les causes,MSP,Kirundo,Mauvais état du vehicle,3,1,4
+20.62,Répartition des accidents de la circulation routière par province selon les causes,MSP,Kirundo,Autres,26,35,28
+20.63,Répartition des accidents de la circulation routière par province selon les causes,MSP,Kirundo,TOTAL,68,67,58
+20.64,Répartition des accidents de la circulation routière par province selon les causes,MSP,Makamba,Etat de la chaussée ,23,20,23
+20.65,Répartition des accidents de la circulation routière par province selon les causes,MSP,Makamba,Excès de vitesse,48,22,21
+20.66,Répartition des accidents de la circulation routière par province selon les causes,MSP,Makamba,Ivresse du conducteur,1,1,0
+20.67,Répartition des accidents de la circulation routière par province selon les causes,MSP,Makamba,Mauvais état du vehicle,16,3,6
+20.68,Répartition des accidents de la circulation routière par province selon les causes,MSP,Makamba,Autres,31,17,17
+20.69,Répartition des accidents de la circulation routière par province selon les causes,MSP,Makamba,TOTAL,120,63,67
+20.70,Répartition des accidents de la circulation routière par province selon les causes,MSP,Muramvya,Etat de la chaussée ,30,16,25
+20.71,Répartition des accidents de la circulation routière par province selon les causes,MSP,Muramvya,Excès de vitesse,29,32,54
+20.72,Répartition des accidents de la circulation routière par province selon les causes,MSP,Muramvya,Ivresse du conducteur,1,2,8
+20.73,Répartition des accidents de la circulation routière par province selon les causes,MSP,Muramvya,Mauvais état du vehicle,1,2,11
+20.74,Répartition des accidents de la circulation routière par province selon les causes,MSP,Muramvya,Autres,11,4,3
+20.75,Répartition des accidents de la circulation routière par province selon les causes,MSP,Muramvya,TOTAL,73,56,101
+20.76,Répartition des accidents de la circulation routière par province selon les causes,MSP,Muyinga,Etat de la chaussée ,43,29,21
+20.77,Répartition des accidents de la circulation routière par province selon les causes,MSP,Muyinga,Excès de vitesse,110,68,43
+20.78,Répartition des accidents de la circulation routière par province selon les causes,MSP,Muyinga,Ivresse du conducteur,13,7,2
+20.79,Répartition des accidents de la circulation routière par province selon les causes,MSP,Muyinga,Mauvais état du vehicle,30,18,14
+20.80,Répartition des accidents de la circulation routière par province selon les causes,MSP,Muyinga,Autres,10,15,8
+20.81,Répartition des accidents de la circulation routière par province selon les causes,MSP,Muyinga,TOTAL,205,137,88
+20.82,Répartition des accidents de la circulation routière par province selon les causes,MSP,Mwaro,Etat de la chaussée ,15,16,5
+20.83,Répartition des accidents de la circulation routière par province selon les causes,MSP,Mwaro,Excès de vitesse,10,12,18
+20.84,Répartition des accidents de la circulation routière par province selon les causes,MSP,Mwaro,Ivresse du conducteur,0,0,2
+20.85,Répartition des accidents de la circulation routière par province selon les causes,MSP,Mwaro,Mauvais état du vehicle,2,1,5
+20.86,Répartition des accidents de la circulation routière par province selon les causes,MSP,Mwaro,Autres,3,3,7
+20.87,Répartition des accidents de la circulation routière par province selon les causes,MSP,Mwaro,TOTAL,18,21,47
+20.88,Répartition des accidents de la circulation routière par province selon les causes,MSP,Ngozi,Etat de la chaussée ,15,16,5
+20.89,Répartition des accidents de la circulation routière par province selon les causes,MSP,Ngozi,Excès de vitesse,49,12,18
+20.90,Répartition des accidents de la circulation routière par province selon les causes,MSP,Ngozi,Ivresse du conducteur,4,2,0
+20.91,Répartition des accidents de la circulation routière par province selon les causes,MSP,Ngozi,Mauvais état du vehicle,18,4,0
+20.92,Répartition des accidents de la circulation routière par province selon les causes,MSP,Ngozi,Autres,17,7,10
+20.93,Répartition des accidents de la circulation routière par province selon les causes,MSP,Ngozi,TOTAL,102,41,33
+20.94,Répartition des accidents de la circulation routière par province selon les causes,MSP,Rumonge,Etat de la chaussée ,27,3,7
+20.95,Répartition des accidents de la circulation routière par province selon les causes,MSP,Rumonge,Excès de vitesse,43,32,24
+20.96,Répartition des accidents de la circulation routière par province selon les causes,MSP,Rumonge,Ivresse du conducteur,0,0,0
+20.97,Répartition des accidents de la circulation routière par province selon les causes,MSP,Rumonge,Mauvais état du vehicle,2,3,2
+20.98,Répartition des accidents de la circulation routière par province selon les causes,MSP,Rumonge,Autres,0,8,13
+20.99,Répartition des accidents de la circulation routière par province selon les causes,MSP,Rumonge,TOTAL,72,46,46
+20.100,Répartition des accidents de la circulation routière par province selon les causes,MSP,Rutana,Etat de la chaussée ,21,15,13
+20.101,Répartition des accidents de la circulation routière par province selon les causes,MSP,Rutana,Excès de vitesse,36,31,22
+20.102,Répartition des accidents de la circulation routière par province selon les causes,MSP,Rutana,Ivresse du conducteur,1,1,1
+20.103,Répartition des accidents de la circulation routière par province selon les causes,MSP,Rutana,Mauvais état du vehicle,7,5,4
+20.104,Répartition des accidents de la circulation routière par province selon les causes,MSP,Rutana,Autres,23,15,6
+20.105,Répartition des accidents de la circulation routière par province selon les causes,MSP,Rutana,TOTAL,88,67,46
+20.106,Répartition des accidents de la circulation routière par province selon les causes,MSP,Ruyigi,Etat de la chaussée ,16,9,24
+20.107,Répartition des accidents de la circulation routière par province selon les causes,MSP,Ruyigi,Excès de vitesse,11,14,16
+20.108,Répartition des accidents de la circulation routière par province selon les causes,MSP,Ruyigi,Ivresse du conducteur,0,0,1
+20.109,Répartition des accidents de la circulation routière par province selon les causes,MSP,Ruyigi,Mauvais état du vehicle,2,5,3
+20.110,Répartition des accidents de la circulation routière par province selon les causes,MSP,Ruyigi,Autres,2,25,20
+20.111,Répartition des accidents de la circulation routière par province selon les causes,MSP,Ruyigi,TOTAL,31,53,64
+20.112,Répartition des accidents de la circulation routière par province selon les causes,MSP,Bujumbura Mairie,Etat de la chaussée ,921,89,154
+20.113,Répartition des accidents de la circulation routière par province selon les causes,MSP,Bujumbura Mairie,Excès de vitesse,447,525,229
+20.114,Répartition des accidents de la circulation routière par province selon les causes,MSP,Bujumbura Mairie,Ivresse du conducteur,65,45,78
+20.115,Répartition des accidents de la circulation routière par province selon les causes,MSP,Bujumbura Mairie,Mauvais état du vehicle,111,107,94
+20.116,Répartition des accidents de la circulation routière par province selon les causes,MSP,Bujumbura Mairie,Autres,632,1103,1358
+20.117,Répartition des accidents de la circulation routière par province selon les causes,MSP,Bujumbura Mairie,TOTAL,2176,1869,1913
+20.118,Répartition des accidents de la circulation routière par province selon les causes,MSP,Total,Etat de la chaussée ,1367,415,537
+20.119,Répartition des accidents de la circulation routière par province selon les causes,MSP,Total,Excès de vitesse,1395,1096,957
+20.120,Répartition des accidents de la circulation routière par province selon les causes,MSP,Total,Ivresse du conducteur,145,72,133
+20.121,Répartition des accidents de la circulation routière par province selon les causes,MSP,Total,Mauvais état du vehicle,246,186,197
+20.122,Répartition des accidents de la circulation routière par province selon les causes,MSP,Total,Autres,1163,1376,1719
+20.123,Répartition des accidents de la circulation routière par province selon les causes,MSP,Total,TOTAL,4313,3145,3543
