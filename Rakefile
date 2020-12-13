@@ -10,7 +10,7 @@ task :home do
   ruby 'lib/home.rb'
 end
 
-task :dashboard do
+task :dash do
   ruby 'lib/dashboard.rb'
 end
 
