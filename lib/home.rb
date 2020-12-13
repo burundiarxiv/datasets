@@ -26,6 +26,6 @@ end
 
 datasetsv2 = datasets.map { |category, data| { category: category, data: data } }
 
-File.open("json/datasets.json", 'w') do |file|
+File.open(OPEN_DATA_HOME_ENDPOINT.to_s, 'w') do |file|
   file.write(datasetsv2.to_json)
 end
