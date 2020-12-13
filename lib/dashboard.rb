@@ -21,14 +21,28 @@ TABS = [
     label: "Pays",
     sections: [
       {
+        title: 'EMPLOI',
+        graphs: []
+      },
+      {
+        title: 'ENSEIGNEMENT',
+        graphs: []
+      },
+      {
+        title: 'FINANCES PUBLIQUES',
+        graphs: []
+      },
+      {
         title: 'POPULATION',
-        graphs: [
-          {
-            title: 'Population par âge et par sexe dans les communes',
-            data: data,
-            type: 'Doughnut'
-          }
-        ]
+        graphs: []
+      },
+      {
+        title: 'SANTÉ ET NUTRITION',
+        graphs: []
+      },
+      {
+        title: 'TOURISME ET HOTELLERIE',
+        graphs: []
       }
     ]
   },
