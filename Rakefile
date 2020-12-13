@@ -1,5 +1,5 @@
 task :dl do
-  ruby 'app.rb'
+  ruby 'lib/dl.rb'
 end
 
 task :json do
@@ -8,6 +8,10 @@ end
 
 task :home do
   ruby 'lib/home.rb'
+end
+
+task :dashboard do
+  ruby 'lib/dashboard.rb'
 end
 
 task :test do
