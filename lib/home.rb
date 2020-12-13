@@ -4,6 +4,8 @@ require 'pry'
 
 require_relative '../index'
 
+BASE_URL = 'https://burundiarxiv-api.herokuapp.com/datasets'
+
 session = GoogleDrive::Session.from_config('config.json')
 sheet = session.spreadsheet_by_key(INDEX_FILE).worksheets[1]
 rows = sheet.rows
@@ -13,7 +15,7 @@ rows.each do |row|
   category = row[0]
   id = row[1].gsub(/\./, '-').chop!
   name = row[2]
-  path = "https://burundiarxiv-api.herokuapp.com/datasets/isteebu-annuaire-2018-#{id}.csv"
+  path = "#{BASE_URL}/isteebu-annuaire-2018-#{id}.csv"
 
   data = { name: name, path: path, id: id }
 
