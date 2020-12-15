@@ -2,6 +2,8 @@ require 'json'
 require 'csv'
 require 'pry'
 
+require_relative '../index'
+
 csv_options = { col_sep: ',', quote_char: '"', headers: :first_row }
 
 Dir.glob('isteebu/*.csv') do |filepath|
@@ -18,7 +20,8 @@ Dir.glob('isteebu/*.csv') do |filepath|
     rows << line
   end
 
-  File.open("json/#{File.basename(filepath, '.csv')}.json", 'w') do |file|
-    file.write({ headers: headers, rows: rows.first(10), source: source }.to_json)
+  filename = "#{OPEN_DATA_DATASETS_PATH}/#{File.basename(filepath, '.csv')}.json"
+  File.open(filename, 'w') do |file|
+    file.write({ headers: headers, rows: rows.first(5), source: source }.to_json)
   end
 end
