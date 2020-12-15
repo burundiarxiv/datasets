@@ -4,13 +4,60 @@ require_relative '../index'
 require_relative './regions'
 require_relative './region'
 
+# data = {
+#   labels: ['Red', 'Green', 'Yellow'],
+#   datasets: [
+#     {
+#       data: [400, 300, 34],
+#       backgroundColor: ['#FF6384', '#36A2EB', '#FFCE56'],
+#       hoverBackgroundColor: ['#FF6384', '#36A2EB', '#FFCE56']
+#     }
+#   ]
+# }
+
+row = %w[234
+          184
+          273
+          280
+          128
+          279
+          326
+          192
+          264
+          205
+          337
+          125
+          227
+          145
+          240
+          345
+          228
+          242].map(&:to_i)
+
 data = {
-  labels: ['Red', 'Green', 'Yellow'],
+  labels: %w[Bubanza
+      Bujumbura-Mairie
+      Bujumbura-Rural
+      Bururi
+      Cankuzo
+      Cibitoke
+      Gitega
+      Karuzi
+      Kayanza
+      Kirundo
+      Makamba
+      Muramvya
+      Muyinga
+      Mwaro
+      Ngozi
+      Rumonge
+      Rutana
+      Ruyigi],
   datasets: [
     {
-      data: [400, 300, 34],
-      backgroundColor: ['#FF6384', '#36A2EB', '#FFCE56'],
-      hoverBackgroundColor: ['#FF6384', '#36A2EB', '#FFCE56']
+      data: row,
+      backgroundColor: 18.times.map{"#%06x" % rand(0..0xffffff)},
+      # hoverBackgroundColor: ['#FF6384', '#36A2EB', '#FFCE56']
     }
   ]
 }
@@ -26,7 +73,11 @@ TABS = [
       },
       {
         title: 'ENSEIGNEMENT',
-        graphs: []
+        graphs: [{
+          title: 'Répartition des Écoles du Fondamental par Province Scolaire',
+          data: data,
+          type: 'Doughnut'
+        }]
       },
       {
         title: 'FINANCES PUBLIQUES',
