@@ -4,7 +4,7 @@ require 'pry'
 
 require_relative '../index'
 
-BASE_URL = 'https://burundiarxiv-api.herokuapp.com/datasets'
+BASE_URL = '/datasets'
 
 session = GoogleDrive::Session.from_config('config.json')
 sheet = session.spreadsheet_by_key(INDEX_FILE).worksheets[1]
