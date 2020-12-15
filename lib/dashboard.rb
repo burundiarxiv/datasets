@@ -4,18 +4,7 @@ require_relative '../index'
 require_relative './regions'
 require_relative './region'
 
-# data = {
-#   labels: ['Red', 'Green', 'Yellow'],
-#   datasets: [
-#     {
-#       data: [400, 300, 34],
-#       backgroundColor: ['#FF6384', '#36A2EB', '#FFCE56'],
-#       hoverBackgroundColor: ['#FF6384', '#36A2EB', '#FFCE56']
-#     }
-#   ]
-# }
-
-row = %w[234
+row_enseignement = %w[234
           184
           273
           280
@@ -34,7 +23,26 @@ row = %w[234
           228
           242].map(&:to_i)
 
-data = {
+row_tourisme = %w[107
+2858
+71
+173
+188
+172
+755
+124
+228
+284
+370
+207
+406
+102
+739
+232
+175
+120].map(&:to_i)
+
+data_enseignement = {
   labels: %w[Bubanza
       Bujumbura-Mairie
       Bujumbura-Rural
@@ -55,12 +63,43 @@ data = {
       Ruyigi],
   datasets: [
     {
-      data: row,
+      data: row_enseignement,
       backgroundColor: 18.times.map{"#%06x" % rand(0..0xffffff)},
-      # hoverBackgroundColor: ['#FF6384', '#36A2EB', '#FFCE56']
     }
   ]
 }
+
+
+data_tourisme = {
+  labels: %w[Bubanza
+      Bujumbura-Mairie
+      Bujumbura-Rural
+      Bururi
+      Cankuzo
+      Cibitoke
+      Gitega
+      Karuzi
+      Kayanza
+      Kirundo
+      Makamba
+      Muramvya
+      Muyinga
+      Mwaro
+      Ngozi
+      Rumonge
+      Rutana
+      Ruyigi],
+  datasets: [
+    {
+      backgroundColor: 'rgba(255,99,132,0.2)',
+      borderColor: 'rgba(255,99,132,1)',
+      borderWidth: 1,
+      hoverBackgroundColor: 'rgba(255,99,132,0.4)',
+      hoverBorderColor: 'rgba(255,99,132,1)',
+      data: row_tourisme
+    }
+  ]
+};
 
 TABS = [
   {
@@ -68,18 +107,29 @@ TABS = [
     label: "Pays",
     sections: [
       {
-        title: 'EMPLOI',
-        graphs: []
-      },
-      {
         title: 'ENSEIGNEMENT',
         graphs: [{
-          title: 'Répartition des Écoles du Fondamental par Province Scolaire',
-          data: data,
-          type: 'Doughnut'
+          title: 'Répartition des Écoles du Fondamental',
+          data: data_enseignement,
+          type: 'Doughnut',
+          source: "Bureau de la Planification et des Statistiques de l'Education"
         }]
       },
       {
+        title: 'TOURISME ET HOTELLERIE',
+        graphs: [{
+          label: "# d'hotels",
+          title: "Capacité d'Accueil des Hotels",
+          data: data_tourisme,
+          type: 'HorizontalBar',
+          source: 'ISTEEBU/ONT'
+          }]
+        },
+        {
+          title: 'EMPLOI',
+          graphs: []
+        },
+        {
         title: 'FINANCES PUBLIQUES',
         graphs: []
       },
@@ -89,10 +139,6 @@ TABS = [
       },
       {
         title: 'SANTÉ ET NUTRITION',
-        graphs: []
-      },
-      {
-        title: 'TOURISME ET HOTELLERIE',
         graphs: []
       }
     ]
