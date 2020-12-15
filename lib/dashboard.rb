@@ -91,6 +91,7 @@ data_tourisme = {
       Ruyigi],
   datasets: [
     {
+      label: "# d'hotels",
       backgroundColor: 'rgba(255,99,132,0.2)',
       borderColor: 'rgba(255,99,132,1)',
       borderWidth: 1,
@@ -118,7 +119,6 @@ TABS = [
       {
         title: 'TOURISME ET HOTELLERIE',
         graphs: [{
-          label: "# d'hotels",
           title: "Capacité d'Accueil des Hotels",
           data: data_tourisme,
           type: 'HorizontalBar',
