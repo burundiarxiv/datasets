@@ -6,6 +6,8 @@ require_relative '../index'
 
 csv_options = { col_sep: ',', quote_char: '"', headers: :first_row }
 
+sources = []
+
 Dir.glob('isteebu/*.csv') do |filepath|
   headers = CSV.read(filepath, headers: true).headers.drop(3)
 
@@ -13,6 +15,7 @@ Dir.glob('isteebu/*.csv') do |filepath|
   source = ''
   CSV.foreach(filepath, csv_options) do |row|
     source = row['source']
+    sources << source
     line = {}
     headers.each do |column|
       line[column] = row[column]
