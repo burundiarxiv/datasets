@@ -24,7 +24,9 @@ rows.each do |row|
   datasets[category] << data
 end
 
-datasetsv2 = datasets.map { |category, data| { category: category, data: data } }
+datasetsv2 = datasets.map do |category, data|
+  { category: category, data: data.sort_by { |d| d[:name] } }
+end
 
 File.open(OPEN_DATA_HOME_ENDPOINT.to_s, 'w') do |file|
   file.write(datasetsv2.to_json)
