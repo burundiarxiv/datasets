@@ -104,8 +104,8 @@ data_tourisme = {
 
 TABS = [
   {
-    name: "pays",
-    label: "Pays",
+    name: "country",
+    label: "country",
     sections: [
       {
         title: 'ENSEIGNEMENT',
@@ -145,12 +145,12 @@ TABS = [
   },
   {
     name: "provinces",
-    label: "Provinces",
+    label: "provinces",
     sections: PROVINCES.map { |province| { title: province, graphs: [] } }
   },
   {
     name: "communes",
-    label: "Communes",
+    label: "communes",
     sections: COMMUNES.map do |commune|
       province, commune = commune.split(',')
       { title: commune, subtitle: province, graphs: [] }
