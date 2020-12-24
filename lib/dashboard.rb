@@ -91,7 +91,7 @@ data_tourisme = {
       Ruyigi],
   datasets: [
     {
-      label: "# d'hotels",
+      label: "# hotels",
       backgroundColor: 'rgba(255,99,132,0.2)',
       borderColor: 'rgba(255,99,132,1)',
       borderWidth: 1,
@@ -110,7 +110,7 @@ TABS = [
       {
         title: 'ENSEIGNEMENT',
         graphs: [{
-          title: 'Répartition des Écoles du Fondamental',
+          title: 'distribution_fundamental_schools',
           data: data_enseignement,
           type: 'Doughnut',
           source: "Bureau de la Planification et des Statistiques de l'Education"
@@ -119,7 +119,7 @@ TABS = [
       {
         title: 'TOURISME ET HOTELLERIE',
         graphs: [{
-          title: "Capacité d'Accueil des Hotels",
+          title: "hotels_capacity",
           data: data_tourisme,
           type: 'HorizontalBar',
           source: 'ISTEEBU/ONT'
