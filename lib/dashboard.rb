@@ -108,7 +108,7 @@ TABS = [
     label: "country",
     sections: [
       {
-        title: 'ENSEIGNEMENT',
+        title: 'education',
         graphs: [{
           title: 'distribution_fundamental_schools',
           data: data_enseignement,
@@ -117,7 +117,7 @@ TABS = [
         }]
       },
       {
-        title: 'TOURISME ET HOTELLERIE',
+        title: 'tourism_and_hotel_business',
         graphs: [{
           title: "hotels_capacity",
           data: data_tourisme,
@@ -126,19 +126,19 @@ TABS = [
           }]
         },
         {
-          title: 'EMPLOI',
+          title: 'employment',
           graphs: []
         },
         {
-        title: 'FINANCES PUBLIQUES',
+        title: 'public_finances',
         graphs: []
       },
       {
-        title: 'POPULATION',
+        title: 'population',
         graphs: []
       },
       {
-        title: 'SANTÉ ET NUTRITION',
+        title: 'health_and_nutrition',
         graphs: []
       }
     ]
